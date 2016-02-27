@@ -45,8 +45,6 @@ Civilization 4: [https://www.youtube.com/watch?v=5e0Qelqp-Cc&list=PL148A567BB5EB
 
 Civilization 5: [https://www.youtube.com/watch?v=rH-Qw2pbrNk](https://www.youtube.com/watch?v=rH-Qw2pbrNk)
 
-Civilization V Soundtrack: [https://www.youtube.com/watch?v=rH-Qw2pbrNk](https://www.youtube.com/watch?v=rH-Qw2pbrNk)
-
 Command and Conquer Soundtrack: [https://www.youtube.com/watch?v=Z2MZzIhjlpY](https://www.youtube.com/watch?v=Z2MZzIhjlpY)
 
 Darksiders: [https://www.youtube.com/watch?v=IYEZTeH4AHU](https://www.youtube.com/watch?v=IYEZTeH4AHU)
