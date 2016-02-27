@@ -113,7 +113,7 @@ Half Life 1: [https://www.youtube.com/watch?v=AaXsb5kS31s](https://www.youtube.c
 
 Half Life 2: [https://www.youtube.com/watch?v=Xt2sbtvBuk8](https://www.youtube.com/watch?v=Xt2sbtvBuk8)
 
-Halo 2: [https://www.youtube.com/watch?v=rVGnkEoLgL0](https://www.youtube.com/watch?v=rVGnkEoLgL0)
+Halo 2: [https://www.youtube.com/watch?v=w5ZkOf33CcU](https://www.youtube.com/watch?v=w5ZkOf33CcU)
 
 Halo 3: [https://www.youtube.com/watch?v=eIyQVP3IUyg](https://www.youtube.com/watch?v=eIyQVP3IUyg)
 
