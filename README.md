@@ -233,7 +233,7 @@ Wet: [https://www.youtube.com/watch?v=ncshVfG4Znw&list=PL554F1AEAD68D1649](https
 
 Wild Arms Soundtrack: [https://www.youtube.com/playlist?list=PL5EF58845135C439F](https://www.youtube.com/playlist?list=PL5EF58845135C439F)
 
-Witcher 3 Soundtrack (Great for working out): [https://www.youtube.com/watch?v=oLSdl-CdOBo](https://www.youtube.com/watch?v=oLSdl-CdOBo)
+Witcher 3 Soundtrack: [https://www.youtube.com/watch?v=oLSdl-CdOBo](https://www.youtube.com/watch?v=oLSdl-CdOBo)
 
 World of Warcraft: Burning Crusade: [https://www.youtube.com/watch?v=I-JiHKVjgLs](https://www.youtube.com/watch?v=I-JiHKVjgLs)
 
@@ -252,3 +252,5 @@ World of Warcraft: Wrath of the Lich King: [https://www.youtube.com/watch?v=EuKG
 World of Warcraft: [https://www.youtube.com/watch?v=gQFOLOur1jM](https://www.youtube.com/watch?v=gQFOLOur1jM)
 
 WOW Soundtrack: [https://www.youtube.com/watch?v=gQFOLOur1jM](https://www.youtube.com/watch?v=gQFOLOur1jM)
+
+Xenoblade Chronicles: [https://www.youtube.com/watch?v=bl9dP0CJfbQ](https://www.youtube.com/watch?v=bl9dP0CJfbQ)
