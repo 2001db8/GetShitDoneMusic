@@ -149,6 +149,8 @@ Last of Us Soundtrack: [https://www.youtube.com/watch?v=2q-cY8-JZUM](https://www
 
 Lifeformed Soundtrack: [https://www.youtube.com/watch?v=8_B8ekeZTCM](https://www.youtube.com/watch?v=8_B8ekeZTCM)
 
+London Philharmonic Orchestra - Greatest Video Game Music: [https://www.youtube.com/watch?v=ZyvwODEjmXw](https://www.youtube.com/watch?v=ZyvwODEjmXw)
+
 Mass Effect 1: [https://www.youtube.com/watch?v=uhesDs6FWpo](https://www.youtube.com/watch?v=uhesDs6FWpo)
 
 Mass Effect 3: [https://www.youtube.com/watch?v=HuTcsGHfc1g](https://www.youtube.com/watch?v=HuTcsGHfc1g)
