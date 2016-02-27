@@ -65,6 +65,8 @@ Dragon Age Origins: [https://www.youtube.com/watch?v=NQ5S8vs2n0U](https://www.yo
 
 Elder Scrolls IV Soundtrack: [https://www.youtube.com/watch?v=SpqSdORmCX4](https://www.youtube.com/watch?v=SpqSdORmCX4)
 
+Eve Online: [https://soundcloud.com/ccpgames/sets/eve-online-in-game-tracks](https://soundcloud.com/ccpgames/sets/eve-online-in-game-tracks)
+
 Faster Than Light Soundtrack (Amazing for focus): [https://www.youtube.com/watch?v=ygH9VcV7IBg](https://www.youtube.com/watch?v=ygH9VcV7IBg)
 
 Fez: [https://www.youtube.com/watch?v=hXfos-mAMMA](https://www.youtube.com/watch?v=hXfos-mAMMA)
