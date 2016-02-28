@@ -23,7 +23,7 @@ Banjo Kazooie Soundtrack: [https://www.youtube.com/watch?v=aS40K53JQIg](https://
 
 Bastion Soundtrack: [https://youtu.be/oLA0vB9LCTM](https://youtu.be/oLA0vB9LCTM)
 
-Batman: Arkham Asylum: [https://www.youtube.com/watch?v=XN0Gr4ttd5M](https://www.youtube.com/watch?v=XN0Gr4ttd5M)
+Batman: Arkham Asylum: [https://www.youtube.com/watch?v=EwT-42p5vzs](https://www.youtube.com/watch?v=EwT-42p5vzs)
 
 Batman: Arkham City: [https://www.youtube.com/watch?v=gYz7_PiJ-MM](https://www.youtube.com/watch?v=gYz7_PiJ-MM)
 
