@@ -207,6 +207,8 @@ Silent Hill: [https://www.youtube.com/watch?v=0GA3rsU5bNk](https://www.youtube.c
 
 Sim City 3000 Soundtrack: [https://www.youtube.com/watch?v=qkXOxLpdMds](https://www.youtube.com/watch?v=qkXOxLpdMds)
 
+Sim City 4 [https://www.youtube.com/watch?v=PSv37HwwojU](https://www.youtube.com/watch?v=PSv37HwwojU)
+
 Skyrim Soundtrack: [https://www.youtube.com/watch?v=TWv3DfoiigM](https://www.youtube.com/watch?v=TWv3DfoiigM)
 
 Skyward Sword OST: [https://www.youtube.com/watch?v=JLLUQ03RWro](https://www.youtube.com/watch?v=JLLUQ03RWro)
@@ -224,6 +226,8 @@ Tony Hawk Pro Skater Spotify Playlist: [https://open.spotify.com/user/.../3IdxCf
 Tron Legacy: [https://www.youtube.com/watch?v=sYJBcr1LDg4](https://www.youtube.com/watch?v=sYJBcr1LDg4)
 
 Undertale Soundtrack: [https://www.youtube.com/playlist?list=PLpJl5XaLHtLX...](https://www.youtube.com/playlist?list=PLpJl5XaLHtLX...)
+
+Valiant Hearts - The Grat War [https://www.youtube.com/watch?v=l3rClyAOxwA](https://www.youtube.com/watch?v=l3rClyAOxwA)
 
 Warcraft 3: [https://www.youtube.com/watch?v=xPoSAo7YFsw](https://www.youtube.com/watch?v=xPoSAo7YFsw)
 
