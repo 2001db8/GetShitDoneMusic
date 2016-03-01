@@ -1,6 +1,11 @@
 # GetShitDoneMusic
 Music and Soundtracks to get shit done by.
 
+  - [Game Soundtracks](#game-soundtracks)
+  - [Movie Soundtracks](#movie-soundtracks)
+  - [Other Music](#other-music)
+  - [Noise Generators](#noise-generators)
+
 ## Game Soundtracks
 
 | Game | Link to OST |
