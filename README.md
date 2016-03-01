@@ -38,6 +38,7 @@ Music and Soundtracks to get shit done by.
 | Deus Ex Human Revolution | [https://www.youtube.com/watch?v=tyG6YMLEWus](https://www.youtube.com/watch?v=tyG6YMLEWus) |
 | Donkey Kong Country 2 | [https://youtu.be/cbreFmRDN3E](https://youtu.be/cbreFmRDN3E) |
 | Dragon Age Origins | [https://www.youtube.com/watch?v=NQ5S8vs2n0U](https://www.youtube.com/watch?v=NQ5S8vs2n0U) |
+| Duet Soundtrack | [https://timshiel.bandcamp.com/album/duet-original-soundtrack](https://timshiel.bandcamp.com/album/duet-original-soundtrack) |
 | Dustforce Soundtrack | [https://www.youtube.com/watch?v=8_B8ekeZTCM](https://www.youtube.com/watch?v=8_B8ekeZTCM) |
 | Elder Scrolls IV Soundtrack | [https://www.youtube.com/watch?v=SpqSdORmCX4](https://www.youtube.com/watch?v=SpqSdORmCX4) |
 | Eve Online | [https://soundcloud.com/ccpgames/sets/eve-online-in-game-tracks](https://soundcloud.com/ccpgames/sets/eve-online-in-game-tracks) |
