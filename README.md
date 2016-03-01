@@ -127,6 +127,7 @@ Music and Soundtracks to get shit done by.
 | WOW Soundtrack | [https://www.youtube.com/watch?v=gQFOLOur1jM](https://www.youtube.com/watch?v=gQFOLOur1jM) |
 | Xenoblade Chronicles | [https://www.youtube.com/watch?v=bl9dP0CJfbQ](https://www.youtube.com/watch?v=bl9dP0CJfbQ) |
 
+[Back to Top](#getshitdonemusic)
 
 ## Movie Soundtracks
 
@@ -139,6 +140,7 @@ Music and Soundtracks to get shit done by.
 | Oblivion OST | [https://www.youtube.com/watch?v=sYD_U1CChew](https://www.youtube.com/watch?v=sYD_U1CChew) |
 | Tron Legacy | [https://www.youtube.com/watch?v=sYJBcr1LDg4](https://www.youtube.com/watch?v=sYJBcr1LDg4) |
 
+[Back to Top](#getshitdonemusic)
 
 ## Other Music
 
@@ -149,6 +151,7 @@ Music and Soundtracks to get shit done by.
 | Icon Audio - Ryze | [http://iconaudio.bandcamp.com/album/ryze](http://iconaudio.bandcamp.com/album/ryze) |
 | Tron Legacy | [https://www.youtube.com/watch?v=sYJBcr1LDg4](https://www.youtube.com/watch?v=sYJBcr1LDg4) |
 
+[Back to Top](#getshitdonemusic)
 
 ## Noise Generators
 
@@ -159,3 +162,5 @@ Music and Soundtracks to get shit done by.
 | iSerenity | [http://www.iserenity.com/](http://www.iserenity.com/) |
 | myNoise | [https://mynoise.net/](https://mynoise.net/) |
 | Noisli | [http://www.noisli.com/](http://www.noisli.com/) |
+
+[Back to Top](#getshitdonemusic)
