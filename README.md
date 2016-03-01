@@ -58,6 +58,7 @@ Music and Soundtracks to get shit done by.
 | Final Fantasy XIII-3 | [https://www.youtube.com/watch?v=ZebmtGCJDfo](https://www.youtube.com/watch?v=ZebmtGCJDfo) |
 | Final Fantasy XIII | [https://www.youtube.com/watch?v=Flk42tkoV4w](https://www.youtube.com/watch?v=Flk42tkoV4w) |
 | Final Fantasy Full Series Orchestration | [https://www.youtube.com/watch?v=LiAWP_mcIzY](https://www.youtube.com/watch?v=LiAWP_mcIzY) |
+| Firewatch Soundtrack | [https://www.youtube.com/watch?v=jLjfhGGuHZo](https://www.youtube.com/watch?v=jLjfhGGuHZo) |
 | Flower | [https://www.youtube.com/watch?v=25RC2PX_EZI](https://www.youtube.com/watch?v=25RC2PX_EZI) |
 | FTL | [http://benprunty.bandcamp.com/album/ftl](http://benprunty.bandcamp.com/album/ftl) |
 | Guild Wars 2 | [https://www.youtube.com/playlist?list=PL9u7rbRjJmqD_qh-WXX7zSftvxOL5nUhI](https://www.youtube.com/playlist?list=PL9u7rbRjJmqD_qh-WXX7zSftvxOL5nUhI) |
