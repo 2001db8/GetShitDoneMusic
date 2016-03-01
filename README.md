@@ -78,6 +78,7 @@ Music and Soundtracks to get shit done by.
 | Journey | [https://www.youtube.com/watch?v=M3hFN8UrBPw](https://www.youtube.com/watch?v=M3hFN8UrBPw) |
 | LA Noire Soundtrack | [https://www.youtube.com/watch?v=7bW75OwVXZI](https://www.youtube.com/watch?v=7bW75OwVXZI) |
 | Last of Us Soundtrack | [https://www.youtube.com/watch?v=2q-cY8-JZUM](https://www.youtube.com/watch?v=2q-cY8-JZUM) |
+| Live is Strange Soundtrack | [https://www.youtube.com/watch?v=0gzU8dGFG9s](https://www.youtube.com/watch?v=0gzU8dGFG9s) |
 | London Philharmonic Orchestra - Greatest Video Game Music | [https://www.youtube.com/watch?v=ZyvwODEjmXw](https://www.youtube.com/watch?v=ZyvwODEjmXw) |
 | Mass Effect 1 | [https://www.youtube.com/watch?v=uhesDs6FWpo](https://www.youtube.com/watch?v=uhesDs6FWpo) |
 | Mass Effect 3 | [https://www.youtube.com/watch?v=HuTcsGHfc1g](https://www.youtube.com/watch?v=HuTcsGHfc1g) |
