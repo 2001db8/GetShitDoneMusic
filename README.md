@@ -23,6 +23,7 @@ Music and Soundtracks to get shit done by.
 | Batman: Arkham Asylum | [https://www.youtube.com/watch?v=EwT-42p5vzs](https://www.youtube.com/watch?v=EwT-42p5vzs) |
 | Batman: Arkham City | [https://www.youtube.com/watch?v=gYz7_PiJ-MM](https://www.youtube.com/watch?v=gYz7_PiJ-MM) |
 | Batman: Arkham Origins | [https://www.youtube.com/watch?v=AAEtp19qIpk](https://www.youtube.com/watch?v=AAEtp19qIpk) |
+| Beyond: Two Souls | [https://www.youtube.com/watch?v=kXFHZ7cOV08](https://www.youtube.com/watch?v=kXFHZ7cOV08) |
 | Bloodborne Soundtrack | [https://www.youtube.com/watch?v=Bki0PjoV14M](https://www.youtube.com/watch?v=Bki0PjoV14M) |
 | Braid | [https://youtu.be/TqOVpiXfq0o](https://youtu.be/TqOVpiXfq0o) |
 | Castlevania Soundtrack | [https://www.youtube.com/watch?v=-DpGq8XOKb8](https://www.youtube.com/watch?v=-DpGq8XOKb8) |
