@@ -34,7 +34,8 @@ Music and Soundtracks to get shit done by.
 | Command and Conquer Soundtrack | [https://www.youtube.com/watch?v=Z2MZzIhjlpY](https://www.youtube.com/watch?v=Z2MZzIhjlpY) |
 | Darksiders | [https://www.youtube.com/watch?v=IYEZTeH4AHU](https://www.youtube.com/watch?v=IYEZTeH4AHU) |
 | Dear Esther Soundtrack | [https://www.youtube.com/watch?v=rjMCqjDOvRQ](https://www.youtube.com/watch?v=rjMCqjDOvRQ) |
-| Destiny Soundtrack | [https://youtu.be/EvwDiV2K_0g?t=1h2m13s](https://youtu.be/EvwDiV2K_0g?t=1h2m13s) |
+| Destiny Soundtrack | [https://youtu.be/EvwDiV2K_0g](https://youtu.be/EvwDiV2K_0g) |
+| Destiny: The Taken King | [https://youtu.be/YAmivIqIItE](https://youtu.be/YAmivIqIItE) |
 | Deus Ex HR | [https://youtu.be/tyG6YMLEWus](https://youtu.be/tyG6YMLEWus) |
 | Deus Ex Human Revolution | [https://www.youtube.com/watch?v=tyG6YMLEWus](https://www.youtube.com/watch?v=tyG6YMLEWus) |
 | Donkey Kong Country 2 | [https://youtu.be/cbreFmRDN3E](https://youtu.be/cbreFmRDN3E) |
@@ -69,8 +70,8 @@ Music and Soundtracks to get shit done by.
 | Half Life 2 | [https://www.youtube.com/watch?v=Xt2sbtvBuk8](https://www.youtube.com/watch?v=Xt2sbtvBuk8) |
 | Halo 2 | [https://www.youtube.com/watch?v=w5ZkOf33CcU](https://www.youtube.com/watch?v=w5ZkOf33CcU) |
 | Halo 3 | [https://www.youtube.com/watch?v=eIyQVP3IUyg](https://www.youtube.com/watch?v=eIyQVP3IUyg) |
+| Halo 3: ODST | [https://www.youtube.com/watch?v=a33iI6xfld0](https://www.youtube.com/watch?v=a33iI6xfld0) |
 | Halo 4 | [https://www.youtube.com/watch?v=a97UuT3PQ1w](https://www.youtube.com/watch?v=a97UuT3PQ1w) |
-| Halo ODST | [https://www.youtube.com/watch?v=a33iI6xfld0](https://www.youtube.com/watch?v=a33iI6xfld0) |
 | Halo OST | [https://www.youtube.com/watch?v=I8vaCrVIR-Q](https://www.youtube.com/watch?v=I8vaCrVIR-Q) |
 | Halo Reach | [https://www.youtube.com/watch?v=aRh1cZbwc4M](https://www.youtube.com/watch?v=aRh1cZbwc4M) |
 | Heavy Rain Soundtrack | [https://www.youtube.com/watch?v=zHI2MgASRXQ](https://www.youtube.com/watch?v=zHI2MgASRXQ) |
