@@ -104,6 +104,7 @@ Music and Soundtracks to get shit done by.
 | Portal | [https://www.youtube.com/watch?v=Kgny67NTtw0](https://www.youtube.com/watch?v=Kgny67NTtw0) |
 | Portal 2 | [https://www.youtube.com/watch?v=y_gknRMZ-OU](https://www.youtube.com/watch?v=y_gknRMZ-OU) |
 | Red Dead Redemption | [https://www.youtube.com/watch?v=S6tcs0_NAUI](https://www.youtube.com/watch?v=S6tcs0_NAUI) |
+| ROCKETSROCKETSROCKETS | [https://www.youtube.com/playlist?list=PLiU5yN_3jHCxaEkqRjDCcKXXvTPEuNem3](https://www.youtube.com/playlist?list=PLiU5yN_3jHCxaEkqRjDCcKXXvTPEuNem3) |
 | Several Game OST pieces, 2,5h | [https://www.youtube.com/watch?v=sfXqKHaZwLs](https://www.youtube.com/watch?v=sfXqKHaZwLs) |
 | Silent Hill | [https://www.youtube.com/watch?v=0GA3rsU5bNk](https://www.youtube.com/watch?v=0GA3rsU5bNk) |
 | Sim City 3000 Soundtrack | [https://www.youtube.com/watch?v=qkXOxLpdMds](https://www.youtube.com/watch?v=qkXOxLpdMds) |
