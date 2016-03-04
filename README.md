@@ -44,7 +44,7 @@ Music and Soundtracks to get shit done by.
 | Dustforce Soundtrack | [https://www.youtube.com/watch?v=8_B8ekeZTCM](https://www.youtube.com/watch?v=8_B8ekeZTCM) |
 | Elder Scrolls IV Soundtrack | [https://www.youtube.com/watch?v=SpqSdORmCX4](https://www.youtube.com/watch?v=SpqSdORmCX4) |
 | Eve Online | [https://soundcloud.com/ccpgames/sets/eve-online-in-game-tracks](https://soundcloud.com/ccpgames/sets/eve-online-in-game-tracks) |
-| Far Cry: Primal Soundtrack | [https://www.youtube.com/watch?v=I0ueyMTCPFc](https://www.youtube.com/watch?v=I0ueyMTCPFc) |
+| Far Cry: Primal Soundtrack | [https://www.youtube.com/watch?v=FOX3cIC2qXo](https://www.youtube.com/watch?v=FOX3cIC2qXo) |
 | Faster Than Light Soundtrack | [https://www.youtube.com/watch?v=ygH9VcV7IBg](https://www.youtube.com/watch?v=ygH9VcV7IBg) |
 | Fez | [https://www.youtube.com/watch?v=hXfos-mAMMA](https://www.youtube.com/watch?v=hXfos-mAMMA) |
 | Final Fantasy 10 Soundtrack | [https://www.youtube.com/watch?v=Fpf-dD4atHw](https://www.youtube.com/watch?v=Fpf-dD4atHw) |
