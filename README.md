@@ -5,12 +5,14 @@ A curated collection of awesome music and soundtracks to get shit done by.
   - [Movie Soundtracks](#movie-soundtracks)
   - [Other Music](#other-music)
   - [Noise Generators](#noise-generators)
+  - [Contribute](#contribute)
 
 ## Game Soundtracks
 
 |A-Z| Game | Link to OST |
 | :---: | --- | --- |
-|<a name="games-a">[A](#getshitdonemusic)</a>| Ape Escape OST |  [https://www.youtube.com/playlist?list=PLDF25FFC7A3D3F497](https://www.youtube.com/playlist?list=PLDF25FFC7A3D3F497) |
+|<a name="games-a">[A](#getshitdonemusic)</a>| Aion | [https://www.youtube.com/watch?v=70zSXGVoLKY](https://www.youtube.com/watch?v=70zSXGVoLKY) |
+| | Ape Escape |  [https://www.youtube.com/playlist?list=PLDF25FFC7A3D3F497](https://www.youtube.com/playlist?list=PLDF25FFC7A3D3F497) |
 | | Assassin's Creed 1 | [https://www.youtube.com/watch?v=4c2gL18xawk](https://www.youtube.com/watch?v=4c2gL18xawk) |
 | | Assassin's Creed 2 | [https://www.youtube.com/watch?v=uH1wfrOcvHg](https://www.youtube.com/watch?v=uH1wfrOcvHg) |
 | | Assassin's Creed 3 | [https://www.youtube.com/watch?v=3QByfthwPYU](https://www.youtube.com/watch?v=3QByfthwPYU) |
@@ -43,7 +45,8 @@ A curated collection of awesome music and soundtracks to get shit done by.
 | | Dustforce | [https://www.youtube.com/watch?v=8_B8ekeZTCM](https://www.youtube.com/watch?v=8_B8ekeZTCM) |
 |<a name="games-e">[E](#getshitdonemusic)</a>| Elder Scrolls IV | [https://www.youtube.com/watch?v=SpqSdORmCX4](https://www.youtube.com/watch?v=SpqSdORmCX4) |
 | | Eve Online | [https://soundcloud.com/ccpgames/sets/eve-online-in-game-tracks](https://soundcloud.com/ccpgames/sets/eve-online-in-game-tracks) |
-|<a name="games-f">[F](#getshitdonemusic)</a>| Far Cry: Primal | [https://www.youtube.com/watch?v=FOX3cIC2qXo](https://www.youtube.com/watch?v=FOX3cIC2qXo) |
+|<a name="games-f">[F](#getshitdonemusic)</a>| Fallout: New Vegas | [https://www.youtube.com/watch?v=6Yy7YLOTYEs](https://www.youtube.com/watch?v=6Yy7YLOTYEs) |
+| | Far Cry: Primal | [https://www.youtube.com/watch?v=FOX3cIC2qXo](https://www.youtube.com/watch?v=FOX3cIC2qXo) |
 | | Faster Than Light | [https://www.youtube.com/watch?v=ygH9VcV7IBg](https://www.youtube.com/watch?v=ygH9VcV7IBg) |
 | | Fez | [https://www.youtube.com/watch?v=hXfos-mAMMA](https://www.youtube.com/watch?v=hXfos-mAMMA) |
 | | Final Fantasy 10 | [https://www.youtube.com/watch?v=Fpf-dD4atHw](https://www.youtube.com/watch?v=Fpf-dD4atHw) |
@@ -62,8 +65,9 @@ A curated collection of awesome music and soundtracks to get shit done by.
 | | Final Fantasy Full Series Orchestration | [https://www.youtube.com/watch?v=LiAWP_mcIzY](https://www.youtube.com/watch?v=LiAWP_mcIzY) |
 | | Firewatch | [https://www.youtube.com/watch?v=jLjfhGGuHZo](https://www.youtube.com/watch?v=jLjfhGGuHZo) |
 | | Flower | [https://www.youtube.com/watch?v=25RC2PX_EZI](https://www.youtube.com/watch?v=25RC2PX_EZI) |
+| | Freelancer | [https://www.youtube.com/watch?v=ot7yWxqYO6E](https://www.youtube.com/watch?v=ot7yWxqYO6E) |
 | | FTL | [http://benprunty.bandcamp.com/album/ftl](http://benprunty.bandcamp.com/album/ftl) |
-|<a name="games-g">[G](#getshitdonemusic)</a>| Guild Wars 2 | [https://www.youtube.com/playlist?list=PL9u7rbRjJmqD_qh-WXX7zSftvxOL5nUhI](https://www.youtube.com/playlist?list=PL9u7rbRjJmqD_qh-WXX7zSftvxOL5nUhI) |
+|<a name="games-g">[G](#getshitdonemusic)</a>| Grim Fandango | [https://www.youtube.com/watch?v=2u9D3CfoZpE](https://www.youtube.com/watch?v=2u9D3CfoZpE) |
 | | Guild Wars 2 | [https://www.youtube.com/watch?v=JCHVIUEjzO0](https://www.youtube.com/watch?v=JCHVIUEjzO0) |
 | | Guild Wars (7 hours) | [https://www.youtube.com/watch?v=0cVB7GT3RWw](https://www.youtube.com/watch?v=0cVB7GT3RWw) |
 |<a name="games-h">[H](#getshitdonemusic)</a>| Half Life 1 | [https://www.youtube.com/watch?v=AaXsb5kS31s](https://www.youtube.com/watch?v=AaXsb5kS31s) |
@@ -72,9 +76,11 @@ A curated collection of awesome music and soundtracks to get shit done by.
 | | Halo 3 | [https://www.youtube.com/watch?v=eIyQVP3IUyg](https://www.youtube.com/watch?v=eIyQVP3IUyg) |
 | | Halo 3: ODST | [https://www.youtube.com/watch?v=a33iI6xfld0](https://www.youtube.com/watch?v=a33iI6xfld0) |
 | | Halo 4 | [https://www.youtube.com/watch?v=a97UuT3PQ1w](https://www.youtube.com/watch?v=a97UuT3PQ1w) |
-| | Halo OST | [https://www.youtube.com/watch?v=I8vaCrVIR-Q](https://www.youtube.com/watch?v=I8vaCrVIR-Q) |
+| | Halo | [https://www.youtube.com/watch?v=I8vaCrVIR-Q](https://www.youtube.com/watch?v=I8vaCrVIR-Q) |
 | | Halo Reach | [https://www.youtube.com/watch?v=aRh1cZbwc4M](https://www.youtube.com/watch?v=aRh1cZbwc4M) |
 | | Heavy Rain | [https://www.youtube.com/watch?v=zHI2MgASRXQ](https://www.youtube.com/watch?v=zHI2MgASRXQ) |
+| | Homeworld: Deserts of Kharak | [https://www.youtube.com/watch?v=bcgQLp7Oj3M](https://www.youtube.com/watch?v=bcgQLp7Oj3M) |
+| | Homeworld 2 | [https://www.youtube.com/watch?v=9rFwaf2GaHE](https://www.youtube.com/watch?v=9rFwaf2GaHE) |
 | | Hotline Miami | [https://www.youtube.com/watch?v=oKD-MVfC9Ag](https://www.youtube.com/watch?v=oKD-MVfC9Ag) |
 | | Hotline Miami 2 | [https://youtu.be/dEFcpyy_vq8](https://youtu.be/dEFcpyy_vq8) |
 |<a name="games-j">[J](#getshitdonemusic)</a>| Journey | [https://www.youtube.com/watch?v=M3hFN8UrBPw](https://www.youtube.com/watch?v=M3hFN8UrBPw) |
@@ -82,7 +88,8 @@ A curated collection of awesome music and soundtracks to get shit done by.
 | | Last of Us | [https://www.youtube.com/watch?v=2q-cY8-JZUM](https://www.youtube.com/watch?v=2q-cY8-JZUM) |
 | | Live is Strange | [https://www.youtube.com/watch?v=0gzU8dGFG9s](https://www.youtube.com/watch?v=0gzU8dGFG9s) |
 | | London Philharmonic Orchestra - Greatest Video Game Music | [https://www.youtube.com/watch?v=ZyvwODEjmXw](https://www.youtube.com/watch?v=ZyvwODEjmXw) |
-|<a name="games-m">[M](#getshitdonemusic)</a>| Mass Effect 1 | [https://www.youtube.com/watch?v=uhesDs6FWpo](https://www.youtube.com/watch?v=uhesDs6FWpo) |
+|<a name="games-m">[M](#getshitdonemusic)</a>| Mass Effect | [https://www.youtube.com/watch?v=uhesDs6FWpo](https://www.youtube.com/watch?v=uhesDs6FWpo) |
+| | Mass Effect 2 | [https://www.youtube.com/watch?v=hBaN_Ea5i74](https://www.youtube.com/watch?v=hBaN_Ea5i74) |
 | | Mass Effect 3 | [https://www.youtube.com/watch?v=HuTcsGHfc1g](https://www.youtube.com/watch?v=HuTcsGHfc1g) |
 | | Mass Effect Mix | [https://youtu.be/Mm5AMucpAkc](https://youtu.be/Mm5AMucpAkc) |
 | | Medal of Honor Frontline | [https://www.youtube.com/watch?v=Fv7QcsuvfH0](https://www.youtube.com/watch?v=Fv7QcsuvfH0) |
@@ -100,7 +107,8 @@ A curated collection of awesome music and soundtracks to get shit done by.
 | | Mirrors Edge | [https://www.youtube.com/watch?v=Y05wiQQbFLU](https://www.youtube.com/watch?v=Y05wiQQbFLU) |
 | | Mortal Kombat theme | [https://www.youtube.com/watch?v=JikPgxdmpJY](https://www.youtube.com/watch?v=JikPgxdmpJY) |
 |<a name="games-n">[N](#getshitdonemusic)</a>| Need 4 Speed Most Wanted | [https://www.youtube.com/watch?v=zK5Dw7j1QZM](https://www.youtube.com/watch?v=zK5Dw7j1QZM) |
-|<a name="games-o">[O](#getshitdonemusic)</a>| Ori and the Blind Forest | [https://www.youtube.com/watch?v=MkzeOmkOUHM](https://www.youtube.com/watch?v=MkzeOmkOUHM) |
+|<a name="games-o">[O](#getshitdonemusic)</a>| Oni | [https://www.youtube.com/watch?v=GbGvEDuErUo](https://www.youtube.com/watch?v=GbGvEDuErUo) |
+| | Ori and the Blind Forest | [https://www.youtube.com/watch?v=MkzeOmkOUHM](https://www.youtube.com/watch?v=MkzeOmkOUHM) |
 |<a name="games-p">[P](#getshitdonemusic)</a>| Portal | [https://www.youtube.com/watch?v=Kgny67NTtw0](https://www.youtube.com/watch?v=Kgny67NTtw0) |
 | | Portal 2 | [https://www.youtube.com/watch?v=y_gknRMZ-OU](https://www.youtube.com/watch?v=y_gknRMZ-OU) |
 |<a name="games-r">[R](#getshitdonemusic)</a>| Red Dead Redemption | [https://www.youtube.com/watch?v=S6tcs0_NAUI](https://www.youtube.com/watch?v=S6tcs0_NAUI) |
@@ -113,15 +121,18 @@ A curated collection of awesome music and soundtracks to get shit done by.
 | | Star Control 2 | [https://www.youtube.com/watch?v=QWOyXmLOA...](https://www.youtube.com/watch?v=QWOyXmLOA...) |
 | | Super Meat Boy | [https://youtu.be/GZhoE9S5YbQ](https://youtu.be/GZhoE9S5YbQ) |
 | | Sword & Sworcery | [https://www.youtube.com/watch?v=xCcWWcL_Sg4](https://www.youtube.com/watch?v=xCcWWcL_Sg4) |
-|<a name="games-t">[T](#getshitdonemusic)</a>| The Legend of Zelda: The Wind Waker | [https://youtu.be/KnJiC8FeI2I](https://youtu.be/KnJiC8FeI2I) |
+|<a name="games-t">[T](#getshitdonemusic)</a>| The Dig | [https://www.youtube.com/watch?v=d8kBCO8x2JE](https://www.youtube.com/watch?v=d8kBCO8x2JE) |
+| | The Legend of Zelda: The Wind Waker | [https://youtu.be/KnJiC8FeI2I](https://youtu.be/KnJiC8FeI2I) |
 | | The Legend of Zelda: Twilight Princess | [https://www.youtube.com/watch?v=ox2D-EJoB0w](https://www.youtube.com/watch?v=ox2D-EJoB0w) |
-| | The Legend of Zelda - Skyward Sword OST | [https://www.youtube.com/watch?v=JLLUQ03RWro](https://www.youtube.com/watch?v=JLLUQ03RWro) |
+| | The Legend of Zelda - Skyward Sword | [https://www.youtube.com/watch?v=JLLUQ03RWro](https://www.youtube.com/watch?v=JLLUQ03RWro) |
 | | Tony Hawk Pro Skater Spotify Playlist | [https://open.spotify.com/user/.../3IdxCfpLeuIEL3Fc2E39Bz](https://open.spotify.com/user/.../3IdxCfpLeuIEL3Fc2E39Bz) |
 |<a name="games-u">[U](#getshitdonemusic)</a>| Undertale | [https://www.youtube.com/watch?v=SxNcKXjfaQo](https://www.youtube.com/watch?v=SxNcKXjfaQo) |
 |<a name="games-v">[V](#getshitdonemusic)</a>| Valiant Hearts - The Grat War | [https://www.youtube.com/watch?v=l3rClyAOxwA](https://www.youtube.com/watch?v=l3rClyAOxwA) |
 |<a name="games-w">[W](#getshitdonemusic)</a>| Warcraft 3 | [https://www.youtube.com/watch?v=xPoSAo7YFsw](https://www.youtube.com/watch?v=xPoSAo7YFsw) |
 | | Watch Dogs | [https://www.youtube.com/watch?v=BJbMaRf51c4](https://www.youtube.com/watch?v=BJbMaRf51c4) |
 | | Wild Arms | [https://www.youtube.com/playlist?list=PL5EF58845135C439F](https://www.youtube.com/playlist?list=PL5EF58845135C439F) |
+| | Witcher | [https://www.youtube.com/watch?v=7rJY1oi3pLU](https://www.youtube.com/watch?v=7rJY1oi3pLU) |
+| | Witcher 2 | [https://www.youtube.com/watch?v=npsAcevrIzk](https://www.youtube.com/watch?v=npsAcevrIzk) |
 | | Witcher 3 | [https://www.youtube.com/watch?v=oLSdl-CdOBo](https://www.youtube.com/watch?v=oLSdl-CdOBo) |
 | | World of Warcraft: Burning Crusade | [https://www.youtube.com/watch?v=I-JiHKVjgLs](https://www.youtube.com/watch?v=I-JiHKVjgLs) |
 | | World of Warcraft: Cataclysm | [https://www.youtube.com/watch?v=k4Pberbn2po](https://www.youtube.com/watch?v=k4Pberbn2po) |
@@ -141,13 +152,17 @@ A curated collection of awesome music and soundtracks to get shit done by.
 | Movie | Link to OST |
 | --- | --- |
 | Akira | [https://www.youtube.com/watch?v=NyC5RKzQm9](https://www.youtube.com/watch?v=NyC5RKzQm9) |
-| Captain America. The Winter Soldier OST | [https://www.youtube.com/playlist?list=PLBqwoNRuBDz-UP4LWoSh3bofnpjePUlKV](https://www.youtube.com/playlist?list=PLBqwoNRuBDz-UP4LWoSh3bofnpjePUlKV) |
+| Captain America. The Winter Soldier | [https://www.youtube.com/playlist?list=PLBqwoNRuBDz-UP4LWoSh3bofnpjePUlKV](https://www.youtube.com/playlist?list=PLBqwoNRuBDz-UP4LWoSh3bofnpjePUlKV) |
+| Cowboy Bebop | [https://www.youtube.com/watch?v=N82fP5hKZPY](https://www.youtube.com/watch?v=N82fP5hKZPY) |
 | Ghost in the Shell | [https://www.youtube.com/watch?v=ZtzMskOJgHA](https://www.youtube.com/watch?v=ZtzMskOJgHA) |
 | How to train your dragon | [https://www.youtube.com/watch?v=SagTkN19veU](https://www.youtube.com/watch?v=SagTkN19veU) |
 | Inception | [https://www.youtube.com/playlist?list=PL493TQZToFwGtwMh1_9Y_nuralywpdQ45](https://www.youtube.com/playlist?list=PL493TQZToFwGtwMh1_9Y_nuralywpdQ45) |
 | Indie Game: The Movie. | [https://www.youtube.com/watch?v=Y63fr6wciDY](https://www.youtube.com/watch?v=Y63fr6wciDY) |
 | Interstellar | [https://www.youtube.com/watch?v=-1U9LNsfMTI](https://www.youtube.com/watch?v=-1U9LNsfMTI) |
+| Limitless | [https://www.youtube.com/playlist?list=PL8B437430F86D7D37](https://www.youtube.com/playlist?list=PL8B437430F86D7D37) |
 | Oblivion | [https://www.youtube.com/watch?v=sYD_U1CChew](https://www.youtube.com/watch?v=sYD_U1CChew) |
+| Studio Ghibli - 25 Years Concert | [https://www.youtube.com/watch?v=X9mGQU7rGGM](https://www.youtube.com/watch?v=X9mGQU7rGGM) |
+| The Social Network | [https://www.youtube.com/watch?v=yydZbVoCbn0](https://www.youtube.com/watch?v=yydZbVoCbn0) |
 | Tron Legacy | [https://www.youtube.com/watch?v=sYJBcr1LDg4](https://www.youtube.com/watch?v=sYJBcr1LDg4) |
 
 [Back to Top](#getshitdonemusic)
@@ -175,3 +190,7 @@ A curated collection of awesome music and soundtracks to get shit done by.
 | Noisli | [http://www.noisli.com/](http://www.noisli.com/) |
 
 [Back to Top](#getshitdonemusic)
+
+## Contribute
+
+You know another great audio track which keeps you focussed? Great, feel free to contribute! Send me a [pull request](https://help.github.com/articles/using-pull-requests/) or ping me on Twitter: [@rfc3849](https://twitter.com/rfc3849).
