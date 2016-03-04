@@ -36,7 +36,6 @@ Music and Soundtracks to get shit done by.
 | | Dear Esther | [https://www.youtube.com/watch?v=rjMCqjDOvRQ](https://www.youtube.com/watch?v=rjMCqjDOvRQ) |
 | | Destiny | [https://youtu.be/EvwDiV2K_0g](https://youtu.be/EvwDiV2K_0g) |
 | | Destiny: The Taken King | [https://youtu.be/YAmivIqIItE](https://youtu.be/YAmivIqIItE) |
-| | Deus Ex HR | [https://youtu.be/tyG6YMLEWus](https://youtu.be/tyG6YMLEWus) |
 | | Deus Ex Human Revolution | [https://www.youtube.com/watch?v=tyG6YMLEWus](https://www.youtube.com/watch?v=tyG6YMLEWus) |
 | | Donkey Kong Country 2 | [https://youtu.be/cbreFmRDN3E](https://youtu.be/cbreFmRDN3E) |
 | | Dragon Age Origins | [https://www.youtube.com/watch?v=NQ5S8vs2n0U](https://www.youtube.com/watch?v=NQ5S8vs2n0U) |
@@ -99,7 +98,7 @@ Music and Soundtracks to get shit done by.
 | | Minecraft - Volume Beta | [http://c418.bandcamp.com/album/minecraft-volume-beta](http://c418.bandcamp.com/album/minecraft-volume-beta) |
 | | Minecraft | [https://www.youtube.com/watch?v=Dg0IjOzopYU](https://www.youtube.com/watch?v=Dg0IjOzopYU) |
 | | Mirrors Edge | [https://www.youtube.com/watch?v=Y05wiQQbFLU](https://www.youtube.com/watch?v=Y05wiQQbFLU) |
-| | Mortal Kombat theme | [https://www.youtube.com/watch?v=JikPgxdmpJY](https://www.youtube.com/watch?v=JikPgxdmpJY) (10h) |
+| | Mortal Kombat theme | [https://www.youtube.com/watch?v=JikPgxdmpJY](https://www.youtube.com/watch?v=JikPgxdmpJY) |
 |<a name="games-n">[N](#getshitdonemusic)</a>| Need 4 Speed Most Wanted | [https://www.youtube.com/watch?v=zK5Dw7j1QZM](https://www.youtube.com/watch?v=zK5Dw7j1QZM) |
 |<a name="games-o">[O](#getshitdonemusic)</a>| Ori and the Blind Forest | [https://www.youtube.com/watch?v=MkzeOmkOUHM](https://www.youtube.com/watch?v=MkzeOmkOUHM) |
 |<a name="games-p">[P](#getshitdonemusic)</a>| Portal | [https://www.youtube.com/watch?v=Kgny67NTtw0](https://www.youtube.com/watch?v=Kgny67NTtw0) |
