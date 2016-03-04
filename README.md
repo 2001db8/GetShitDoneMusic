@@ -141,12 +141,12 @@ Music and Soundtracks to get shit done by.
 | Movie | Link to OST |
 | --- | --- |
 | Akira | [https://www.youtube.com/watch?v=NyC5RKzQm9](https://www.youtube.com/watch?v=NyC5RKzQm9) |
-| Captain America. The Winter Soldier OST | [https://www.youtube.com/watch?v=vOPonJDIQFI&list=PLBqwoNRuBDz-UP4LWoSh3bofnpjePUlKV](https://www.youtube.com/watch?v=vOPonJDIQFI&list=PLBqwoNRuBDz-UP4LWoSh3bofnpjePUlKV) |
+| Captain America. The Winter Soldier OST | [https://www.youtube.com/playlist?list=PLBqwoNRuBDz-UP4LWoSh3bofnpjePUlKV](https://www.youtube.com/playlist?list=PLBqwoNRuBDz-UP4LWoSh3bofnpjePUlKV) |
 | Ghost in the Shell | [https://www.youtube.com/watch?v=ZtzMskOJgHA](https://www.youtube.com/watch?v=ZtzMskOJgHA) |
 | How to train your dragon | [https://www.youtube.com/watch?v=SagTkN19veU](https://www.youtube.com/watch?v=SagTkN19veU) |
-| Inception | [https://www.youtube.com/watch?v=_DNUv3QfqyM&list=PL493TQZToFwGtwMh1_9Y_nuralywpdQ45](https://www.youtube.com/watch?v=_DNUv3QfqyM&list=PL493TQZToFwGtwMh1_9Y_nuralywpdQ45) |
+| Inception | [https://www.youtube.com/playlist?list=PL493TQZToFwGtwMh1_9Y_nuralywpdQ45](https://www.youtube.com/playlist?list=PL493TQZToFwGtwMh1_9Y_nuralywpdQ45) |
 | Indie Game: The Movie. | [https://www.youtube.com/watch?v=Y63fr6wciDY](https://www.youtube.com/watch?v=Y63fr6wciDY) |
-| Interstellar | [https://www.youtube.com/watch?v=NYgkUXvFp4Q&list=PLcHOKlfZ6enPoHOd9dP7Y4YGAlcCRZllI](https://www.youtube.com/watch?v=NYgkUXvFp4Q&list=PLcHOKlfZ6enPoHOd9dP7Y4YGAlcCRZllI) |
+| Interstellar | [https://www.youtube.com/watch?v=-1U9LNsfMTI](https://www.youtube.com/watch?v=-1U9LNsfMTI) |
 | Oblivion | [https://www.youtube.com/watch?v=sYD_U1CChew](https://www.youtube.com/watch?v=sYD_U1CChew) |
 | Tron Legacy | [https://www.youtube.com/watch?v=sYJBcr1LDg4](https://www.youtube.com/watch?v=sYJBcr1LDg4) |
 
