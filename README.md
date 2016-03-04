@@ -8,7 +8,7 @@ Music and Soundtracks to get shit done by.
 
 ## Game Soundtracks
 
-|![A-Z](icons/sort_2x.png)| <h2>Game</h2> | <h2>Link to OST</h2> |
+|![A-Z](icons/sort_2x.png)| Game | Link to OST< |
 | :---: | --- | --- |
 |<a name="games-a">[A](#getshitdonemusic)</a>| Ape Escape OST |  [https://www.youtube.com/playlist?list=PLDF25FFC7A3D3F497](https://www.youtube.com/playlist?list=PLDF25FFC7A3D3F497) |
 | | Assassin's Creed 1 | [https://www.youtube.com/watch?v=4c2gL18xawk](https://www.youtube.com/watch?v=4c2gL18xawk) |
