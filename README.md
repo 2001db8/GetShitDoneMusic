@@ -140,12 +140,14 @@ Music and Soundtracks to get shit done by.
 
 | Movie | Link to OST |
 | --- | --- |
+| Akira | [https://www.youtube.com/watch?v=NyC5RKzQm9](https://www.youtube.com/watch?v=NyC5RKzQm9) |
 | Captain America. The Winter Soldier OST | [https://www.youtube.com/watch?v=vOPonJDIQFI&list=PLBqwoNRuBDz-UP4LWoSh3bofnpjePUlKV](https://www.youtube.com/watch?v=vOPonJDIQFI&list=PLBqwoNRuBDz-UP4LWoSh3bofnpjePUlKV) |
-| How to train your dragon OST | [https://www.youtube.com/watch?v=SagTkN19veU](https://www.youtube.com/watch?v=SagTkN19veU) |
-| Inception OST | [https://www.youtube.com/watch?v=_DNUv3QfqyM&list=PL493TQZToFwGtwMh1_9Y_nuralywpdQ45](https://www.youtube.com/watch?v=_DNUv3QfqyM&list=PL493TQZToFwGtwMh1_9Y_nuralywpdQ45) |
-| Indie Game: the Movie. | [https://www.youtube.com/watch?v=Y63fr6wciDY](https://www.youtube.com/watch?v=Y63fr6wciDY) |
-| Interstellar OST | [https://www.youtube.com/watch?v=NYgkUXvFp4Q&list=PLcHOKlfZ6enPoHOd9dP7Y4YGAlcCRZllI](https://www.youtube.com/watch?v=NYgkUXvFp4Q&list=PLcHOKlfZ6enPoHOd9dP7Y4YGAlcCRZllI) |
-| Oblivion OST | [https://www.youtube.com/watch?v=sYD_U1CChew](https://www.youtube.com/watch?v=sYD_U1CChew) |
+| Ghost in the Shell | [https://www.youtube.com/watch?v=ZtzMskOJgHA](https://www.youtube.com/watch?v=ZtzMskOJgHA) |
+| How to train your dragon | [https://www.youtube.com/watch?v=SagTkN19veU](https://www.youtube.com/watch?v=SagTkN19veU) |
+| Inception | [https://www.youtube.com/watch?v=_DNUv3QfqyM&list=PL493TQZToFwGtwMh1_9Y_nuralywpdQ45](https://www.youtube.com/watch?v=_DNUv3QfqyM&list=PL493TQZToFwGtwMh1_9Y_nuralywpdQ45) |
+| Indie Game: The Movie. | [https://www.youtube.com/watch?v=Y63fr6wciDY](https://www.youtube.com/watch?v=Y63fr6wciDY) |
+| Interstellar | [https://www.youtube.com/watch?v=NYgkUXvFp4Q&list=PLcHOKlfZ6enPoHOd9dP7Y4YGAlcCRZllI](https://www.youtube.com/watch?v=NYgkUXvFp4Q&list=PLcHOKlfZ6enPoHOd9dP7Y4YGAlcCRZllI) |
+| Oblivion | [https://www.youtube.com/watch?v=sYD_U1CChew](https://www.youtube.com/watch?v=sYD_U1CChew) |
 | Tron Legacy | [https://www.youtube.com/watch?v=sYJBcr1LDg4](https://www.youtube.com/watch?v=sYJBcr1LDg4) |
 
 [Back to Top](#getshitdonemusic)
