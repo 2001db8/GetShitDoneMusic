@@ -131,7 +131,8 @@ Music and Soundtracks to get shit done by.
 | | World of Warcraft: Warlords of Draenor 2 | [https://www.youtube.com/watch?v=gMivRHOD-a4](https://www.youtube.com/watch?v=gMivRHOD-a4) |
 | | World of Warcraft: Wrath of the Lich King | [https://www.youtube.com/watch?v=EuKGNGZjUJI](https://www.youtube.com/watch?v=EuKGNGZjUJI) |
 | | World of Warcraft | [https://www.youtube.com/watch?v=gQFOLOur1jM](https://www.youtube.com/watch?v=gQFOLOur1jM) |
-|<a name="games-x">[X](#getshitdonemusic)</a>| Xenoblade Chronicles | [https://www.youtube.com/watch?v=bl9dP0CJfbQ](https://www.youtube.com/watch?v=bl9dP0CJfbQ) |
+|<a name="games-x">[X](#getshitdonemusic)</a>| X-Com 2 | [https://www.youtube.com/watch?v=hErQwCMI68A](https://www.youtube.com/watch?v=hErQwCMI68A) |
+| | Xenoblade Chronicles | [https://www.youtube.com/watch?v=bl9dP0CJfbQ](https://www.youtube.com/watch?v=bl9dP0CJfbQ) |
 
 [Back to Top](#getshitdonemusic)
 
