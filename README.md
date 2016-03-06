@@ -116,13 +116,15 @@ A curated collection of awesome music and soundtracks to get shit done by.
 | | Ori and the Blind Forest | [https://www.youtube.com/watch?v=MkzeOmkOUHM](https://www.youtube.com/watch?v=MkzeOmkOUHM) |
 |<a name="games-p">[P](#getshitdonemusic)</a>| Portal | [https://www.youtube.com/watch?v=Kgny67NTtw0](https://www.youtube.com/watch?v=Kgny67NTtw0) |
 | | Portal 2 | [https://www.youtube.com/watch?v=y_gknRMZ-OU](https://www.youtube.com/watch?v=y_gknRMZ-OU) |
-|<a name="games-r">[R](#getshitdonemusic)</a>| Red Dead Redemption | [https://www.youtube.com/watch?v=S6tcs0_NAUI](https://www.youtube.com/watch?v=S6tcs0_NAUI) |
+|<a name="games-r">[R](#getshitdonemusic)</a>| Rainbow Six: Siege | [https://www.youtube.com/watch?v=eTXTUuYyIKY](https://www.youtube.com/watch?v=eTXTUuYyIKY) |
+| | Red Dead Redemption | [https://www.youtube.com/watch?v=S6tcs0_NAUI](https://www.youtube.com/watch?v=S6tcs0_NAUI) |
 | | ROCKETSROCKETSROCKETS | [https://www.youtube.com/playlist?list=PLiU5yN....](https://www.youtube.com/playlist?list=PLiU5yN_3jHCxaEkqRjDCcKXXvTPEuNem3) |
 |<a name="games-s">[S](#getshitdonemusic)</a>| Several Game OST pieces, 2,5h | [https://www.youtube.com/watch?v=sfXqKHaZwLs](https://www.youtube.com/watch?v=sfXqKHaZwLs) |
 | | Silent Hill | [https://www.youtube.com/watch?v=0GA3rsU5bNk](https://www.youtube.com/watch?v=0GA3rsU5bNk) |
 | | Sim City 3000 | [https://www.youtube.com/watch?v=qkXOxLpdMds](https://www.youtube.com/watch?v=qkXOxLpdMds) |
 | | Sim City 4 | [https://www.youtube.com/watch?v=PSv37HwwojU](https://www.youtube.com/watch?v=PSv37HwwojU) |
 | | Skyrim | [https://www.youtube.com/watch?v=TWv3DfoiigM](https://www.youtube.com/watch?v=TWv3DfoiigM) |
+| | Star Citizen | [https://www.youtube.com/playlist?list=PLLcod52t0kpdZJxdds7VF3N...](https://www.youtube.com/playlist?list=PLLcod52t0kpdZJxdds7VF3NX-XzM3tmb8) |
 | | Star Control 2 | [https://www.youtube.com/watch?v=QWOyXmLOA...](https://www.youtube.com/watch?v=QWOyXmLOA...) |
 | | Super Meat Boy | [https://youtu.be/GZhoE9S5YbQ](https://youtu.be/GZhoE9S5YbQ) |
 | | Sword & Sworcery | [https://www.youtube.com/watch?v=xCcWWcL_Sg4](https://www.youtube.com/watch?v=xCcWWcL_Sg4) |
