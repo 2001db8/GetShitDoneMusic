@@ -128,7 +128,8 @@ A curated collection of awesome music and soundtracks to get shit done by.
 | | Star Control 2 | [https://www.youtube.com/watch?v=QWOyXmLOA...](https://www.youtube.com/watch?v=QWOyXmLOA...) |
 | | Super Meat Boy | [https://youtu.be/GZhoE9S5YbQ](https://youtu.be/GZhoE9S5YbQ) |
 | | Sword & Sworcery | [https://www.youtube.com/watch?v=xCcWWcL_Sg4](https://www.youtube.com/watch?v=xCcWWcL_Sg4) |
-|<a name="games-t">[T](#getshitdonemusic)</a>| The Dig | [https://www.youtube.com/watch?v=d8kBCO8x2JE](https://www.youtube.com/watch?v=d8kBCO8x2JE) |
+|<a name="games-t">[T](#getshitdonemusic)</a>| The Binding of Isaac | [https://www.youtube.com/watch?v=AX6h8_Y_ot4](https://www.youtube.com/watch?v=AX6h8_Y_ot4) |
+| | The Dig | [https://www.youtube.com/watch?v=d8kBCO8x2JE](https://www.youtube.com/watch?v=d8kBCO8x2JE) |
 | | The Legend of Zelda: The Wind Waker | [https://youtu.be/KnJiC8FeI2I](https://youtu.be/KnJiC8FeI2I) |
 | | The Legend of Zelda: Twilight Princess | [https://www.youtube.com/watch?v=ox2D-EJoB0w](https://www.youtube.com/watch?v=ox2D-EJoB0w) |
 | | The Legend of Zelda - Skyward Sword | [https://www.youtube.com/watch?v=JLLUQ03RWro](https://www.youtube.com/watch?v=JLLUQ03RWro) |
