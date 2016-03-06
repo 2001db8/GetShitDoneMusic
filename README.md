@@ -46,6 +46,11 @@ A curated collection of awesome music and soundtracks to get shit done by.
 |<a name="games-e">[E](#getshitdonemusic)</a>| Elder Scrolls IV | [https://www.youtube.com/watch?v=SpqSdORmCX4](https://www.youtube.com/watch?v=SpqSdORmCX4) |
 | | Eve Online | [https://soundcloud.com/ccpgames/sets/eve-online-in-game-tracks](https://soundcloud.com/ccpgames/sets/eve-online-in-game-tracks) |
 |<a name="games-f">[F](#getshitdonemusic)</a>| Fallout: New Vegas | [https://www.youtube.com/watch?v=6Yy7YLOTYEs](https://www.youtube.com/watch?v=6Yy7YLOTYEs) |
+| | Far Cry | [https://www.youtube.com/watch?v=R4DAsOjJBVI](https://www.youtube.com/watch?v=R4DAsOjJBVI) |
+| | Far Cry 2 | [https://www.youtube.com/watch?v=1bGGsGDQeOE](https://www.youtube.com/watch?v=1bGGsGDQeOE) |
+| | Far Cry 3 | [https://www.youtube.com/watch?v=97_Wi7hUP6o](https://www.youtube.com/watch?v=97_Wi7hUP6o) |
+| | Far Cry 3: Blood Dragon | [https://www.youtube.com/watch?v=AnDutViIj-8](https://www.youtube.com/watch?v=AnDutViIj-8) |
+| | Far Cry 4 | [https://www.youtube.com/watch?v=qEM5xHEibbo](https://www.youtube.com/watch?v=qEM5xHEibbo) |
 | | Far Cry: Primal | [https://www.youtube.com/watch?v=FOX3cIC2qXo](https://www.youtube.com/watch?v=FOX3cIC2qXo) |
 | | Faster Than Light | [https://www.youtube.com/watch?v=ygH9VcV7IBg](https://www.youtube.com/watch?v=ygH9VcV7IBg) |
 | | Fez | [https://www.youtube.com/watch?v=hXfos-mAMMA](https://www.youtube.com/watch?v=hXfos-mAMMA) |
