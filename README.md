@@ -92,7 +92,7 @@ A curated collection of awesome music and soundtracks to get shit done by.
 |<a name="games-j">[J](#getshitdonemusic)</a>| Journey | [https://www.youtube.com/watch?v=M3hFN8UrBPw](https://www.youtube.com/watch?v=M3hFN8UrBPw) |
 |<a name="games-l">[L](#getshitdonemusic)</a>| LA Noire Soundtrack | [https://www.youtube.com/watch?v=7bW75OwVXZI](https://www.youtube.com/watch?v=7bW75OwVXZI) |
 | | Last of Us | [https://www.youtube.com/watch?v=2q-cY8-JZUM](https://www.youtube.com/watch?v=2q-cY8-JZUM) |
-| | Live is Strange | [https://www.youtube.com/watch?v=0gzU8dGFG9s](https://www.youtube.com/watch?v=0gzU8dGFG9s) |
+| | Life is Strange | [https://www.youtube.com/watch?v=0gzU8dGFG9s](https://www.youtube.com/watch?v=0gzU8dGFG9s) |
 | | London Philharmonic Orchestra - Greatest Video Game Music | [https://www.youtube.com/watch?v=ZyvwODEjmXw](https://www.youtube.com/watch?v=ZyvwODEjmXw) |
 |<a name="games-m">[M](#getshitdonemusic)</a>| Mass Effect | [https://www.youtube.com/watch?v=uhesDs6FWpo](https://www.youtube.com/watch?v=uhesDs6FWpo) |
 | | Mass Effect 2 | [https://www.youtube.com/watch?v=hBaN_Ea5i74](https://www.youtube.com/watch?v=hBaN_Ea5i74) |
