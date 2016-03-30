@@ -29,6 +29,7 @@ A curated collection of awesome music and soundtracks to get shit done by.
 | | Bloodborne | [https://www.youtube.com/watch?v=Bki0PjoV14M](https://www.youtube.com/watch?v=Bki0PjoV14M) |
 | | Braid | [https://youtu.be/TqOVpiXfq0o](https://youtu.be/TqOVpiXfq0o) |
 |<a name="games-c">[C](#getshitdonemusic)</a>| Castlevania | [https://www.youtube.com/watch?v=-DpGq8XOKb8](https://www.youtube.com/watch?v=-DpGq8XOKb8) |
+| | Child of Light | [https://www.youtube.com/watch?v=v6KcYN0A5LY](https://www.youtube.com/watch?v=v6KcYN0A5LY) |
 | | Chrono Trigger | [https://www.youtube.com/watch?v=mEoN_Xe-B-s](https://www.youtube.com/watch?v=mEoN_Xe-B-s) |
 | | Civ Baba Yetu | [https://www.youtube.com/watch?v=IJiHDmyhE1A](https://www.youtube.com/watch?v=IJiHDmyhE1A) |
 | | Civilization 4 | [https://www.youtube.com/playlist?list=PL148A567BB5EB0821](https://www.youtube.com/playlist?list=PL148A567BB5EB0821) |
