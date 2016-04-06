@@ -2,7 +2,7 @@
 A curated collection of awesome music and soundtracks to get shit done by.
 
   - [Game Soundtracks](#game-soundtracks) - [A](#games-a) [B](#games-b) [C](#games-c) [D](#games-d) [E](#games-e) [F](#games-f) [G](#games-g) [H](#games-h) I [J](#games-j) K [L](#games-l) [M](#games-m) [N](#games-n) [O](#games-o) [P](#games-p) Q [R](#games-r) [S](#games-s) [T](#games-t) [U](#games-u) [V](#games-v) [W](#games-w) [X](#games-x) Y Z
-  - [Movie Soundtracks](#movietv-show-soundtracks)
+  - [Movie/TV-Show Soundtracks](#movietv-show-soundtracks)
   - [Other Music](#other-music)
   - [Noise Generators](#noise-generators)
   - [Contribute](#contribute)
