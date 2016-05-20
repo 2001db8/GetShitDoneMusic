@@ -99,6 +99,7 @@ A curated collection of awesome music and soundtracks to get shit done by.
 | | Mass Effect 2 | [https://www.youtube.com/watch?v=hBaN_Ea5i74](https://www.youtube.com/watch?v=hBaN_Ea5i74) |
 | | Mass Effect 3 | [https://www.youtube.com/watch?v=HuTcsGHfc1g](https://www.youtube.com/watch?v=HuTcsGHfc1g) |
 | | Mass Effect Mix | [https://youtu.be/Mm5AMucpAkc](https://youtu.be/Mm5AMucpAkc) |
+| | Mech Warrior 2 | [https://www.youtube.com/watch?v=HTrrv-Jr240](https://www.youtube.com/watch?v=HTrrv-Jr240) |
 | | Medal of Honor Frontline | [https://www.youtube.com/watch?v=Fv7QcsuvfH0](https://www.youtube.com/watch?v=Fv7QcsuvfH0) |
 | | Metal Gear Solid 1 | [http://www.youtube.com/watch?v=fKt_-_wfSiY](http://www.youtube.com/watch?v=fKt_-_wfSiY) |
 | | Metal Gear Solid 2 | [http://www.youtube.com/watch?v=NshGqbYcM6U](http://www.youtube.com/watch?v=NshGqbYcM6U) |
