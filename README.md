@@ -120,6 +120,7 @@ A curated collection of awesome music and soundtracks to get shit done by.
 | | Portal 2 | [https://www.youtube.com/watch?v=y_gknRMZ-OU](https://www.youtube.com/watch?v=y_gknRMZ-OU) |
 |<a name="games-r">[R](#getshitdonemusic)</a>| Rainbow Six: Siege | [https://www.youtube.com/watch?v=eTXTUuYyIKY](https://www.youtube.com/watch?v=eTXTUuYyIKY) |
 | | Red Dead Redemption | [https://www.youtube.com/watch?v=S6tcs0_NAUI](https://www.youtube.com/watch?v=S6tcs0_NAUI) |
+| | Rise of the Tomb Raider | [https://www.youtube.com/watch?v=YB6la1r7qRI](https://www.youtube.com/watch?v=YB6la1r7qRI) |
 | | ROCKETSROCKETSROCKETS | [https://www.youtube.com/playlist?list=PLiU5yN....](https://www.youtube.com/playlist?list=PLiU5yN_3jHCxaEkqRjDCcKXXvTPEuNem3) |
 |<a name="games-s">[S](#getshitdonemusic)</a>| Several Game OST pieces, 2,5h | [https://www.youtube.com/watch?v=sfXqKHaZwLs](https://www.youtube.com/watch?v=sfXqKHaZwLs) |
 | | Silent Hill | [https://www.youtube.com/watch?v=0GA3rsU5bNk](https://www.youtube.com/watch?v=0GA3rsU5bNk) |
@@ -135,6 +136,8 @@ A curated collection of awesome music and soundtracks to get shit done by.
 | | The Legend of Zelda: The Wind Waker | [https://youtu.be/KnJiC8FeI2I](https://youtu.be/KnJiC8FeI2I) |
 | | The Legend of Zelda: Twilight Princess | [https://www.youtube.com/watch?v=ox2D-EJoB0w](https://www.youtube.com/watch?v=ox2D-EJoB0w) |
 | | The Legend of Zelda - Skyward Sword | [https://www.youtube.com/watch?v=JLLUQ03RWro](https://www.youtube.com/watch?v=JLLUQ03RWro) |
+| | Tomb Raider | [https://www.youtube.com/watch?v=-wR1xUHm4rs](https://www.youtube.com/watch?v=-wR1xUHm4rs) |
+| | Tomb Raider, Rise of the | [https://www.youtube.com/watch?v=YB6la1r7qRI](https://www.youtube.com/watch?v=YB6la1r7qRI) |
 | | Tom Clancy's The Division | [https://www.youtube.com/watch?v=3xvMSC06GQQ](https://www.youtube.com/watch?v=3xvMSC06GQQ) |
 | | Tony Hawk Pro Skater Spotify Playlist | [https://open.spotify.com/user/.../3IdxCfpLeuIEL3Fc2E39Bz](https://open.spotify.com/user/.../3IdxCfpLeuIEL3Fc2E39Bz) |
 |<a name="games-u">[U](#getshitdonemusic)</a>| Undertale | [https://www.youtube.com/watch?v=SxNcKXjfaQo](https://www.youtube.com/watch?v=SxNcKXjfaQo) |
