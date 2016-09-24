@@ -13,17 +13,19 @@ A curated collection of music and soundtracks to get shit done by.
 | :---: | --- | --- |
 |<a name="games-a">[A](#getshitdonemusic)</a>| Aion | [https://www.youtube.com/watch?v=70zSXGVoLKY](https://www.youtube.com/watch?v=70zSXGVoLKY) |
 | | Ape Escape |  [https://www.youtube.com/playlist?list=PLDF25FFC7A3D3F497](https://www.youtube.com/playlist?list=PLDF25FFC7A3D3F497) |
-| | Assassin's Creed 1 | [https://www.youtube.com/watch?v=4c2gL18xawk](https://www.youtube.com/watch?v=4c2gL18xawk) |
-| | Assassin's Creed 2 | [https://www.youtube.com/watch?v=uH1wfrOcvHg](https://www.youtube.com/watch?v=uH1wfrOcvHg) |
+| | Assassin's Creed 1 | [https://www.youtube.com/watch?v=OKnTUsQ6sb0](https://www.youtube.com/watch?v=OKnTUsQ6sb0) |
+| | Assassin's Creed 2 | [https://www.youtube.com/watch?v=VSFlCOhU6-o](https://www.youtube.com/watch?v=VSFlCOhU6-o) |
 | | Assassin's Creed 3 | [https://www.youtube.com/watch?v=3QByfthwPYU](https://www.youtube.com/watch?v=3QByfthwPYU) |
-| | Assassin's Creed 4 | [https://www.youtube.com/watch?v=eXZ6pWh19mI](https://www.youtube.com/watch?v=eXZ6pWh19mI) |
-| | Assassin's Creed Brotherhood | [https://www.youtube.com/watch?v=IyH5NvmjxeY](https://www.youtube.com/watch?v=IyH5NvmjxeY) |
-| | Assassin's Creed Revelations | [https://www.youtube.com/watch?v=c7tc0VfZwtk](https://www.youtube.com/watch?v=c7tc0VfZwtk) |
-| | Assassin's Creed Black Flag | [https://www.youtube.com/watch?v=JYVMnLUZu9Y](https://www.youtube.com/watch?v=JYVMnLUZu9Y) |
+| | Assassin's Creed 4: Black Flag | [https://www.youtube.com/watch?v=YnF0xtLbk2Q](https://www.youtube.com/watch?v=YnF0xtLbk2Q) |
+| | Assassin's Creed: Brotherhood | [https://www.youtube.com/watch?v=QOxU5bc1zRA](https://www.youtube.com/watch?v=QOxU5bc1zRA) |
+| | Assassin's Creed: Revelations | [https://www.youtube.com/watch?v=FXs-vSF5Scg](https://www.youtube.com/watch?v=FXs-vSF5Scg) |
+| | Assassin's Creed: Rogue | [https://www.youtube.com/watch?v=gp5Q5kI7oB4](https://www.youtube.com/watch?v=gp5Q5kI7oB4) |
+| | Assassin's Creed: Unity | [https://www.youtube.com/watch?v=_9UswcA4E8I](https://www.youtube.com/watch?v=_9UswcA4E8I) |
+| | Assassin's Creed: Syndicate | [https://www.youtube.com/watch?v=spjAcBMeRpY](https://www.youtube.com/watch?v=spjAcBMeRpY) |
 |<a name="games-b">[B](#getshitdonemusic)</a>| Banjo Kazooie | [https://www.youtube.com/watch?v=aS40K53JQIg](https://www.youtube.com/watch?v=aS40K53JQIg) |
 | | Bastion | [https://youtu.be/oLA0vB9LCTM](https://youtu.be/oLA0vB9LCTM) |
-| | Batman: Arkham Asylum | [https://www.youtube.com/watch?v=EwT-42p5vzs](https://www.youtube.com/watch?v=EwT-42p5vzs) |
-| | Batman: Arkham City | [https://www.youtube.com/watch?v=gYz7_PiJ-MM](https://www.youtube.com/watch?v=gYz7_PiJ-MM) |
+| | Batman: Arkham Asylum | [https://www.youtube.com/watch?v=uB9e_ruSRqk](https://www.youtube.com/watch?v=uB9e_ruSRqk) |
+| | Batman: Arkham City | [https://www.youtube.com/watch?v=EwT-42p5vzs](https://www.youtube.com/watch?v=EwT-42p5vzs) |
 | | Batman: Arkham Origins | [https://www.youtube.com/watch?v=AAEtp19qIpk](https://www.youtube.com/watch?v=AAEtp19qIpk) |
 | | Beyond: Two Souls | [https://www.youtube.com/watch?v=kXFHZ7cOV08](https://www.youtube.com/watch?v=kXFHZ7cOV08) |
 | | Bloodborne | [https://www.youtube.com/watch?v=Bki0PjoV14M](https://www.youtube.com/watch?v=Bki0PjoV14M) |
