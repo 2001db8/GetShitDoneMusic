@@ -11,7 +11,8 @@ A curated collection of music and soundtracks to get shit done by.
 
 |A-Z| Game | Link to OST |
 | :---: | --- | --- |
-|<a name="games-a">[A](#getshitdonemusic)</a>| Aion | [https://www.youtube.com/watch?v=70zSXGVoLKY](https://www.youtube.com/watch?v=70zSXGVoLKY) |
+|<a name="games-a">[A](#getshitdonemusic)</a>| Abzû | [https://www.youtube.com/watch?v=TCuhQLgDgIg](https://www.youtube.com/watch?v=TCuhQLgDgIg) |
+| | Aion | [https://www.youtube.com/watch?v=70zSXGVoLKY](https://www.youtube.com/watch?v=70zSXGVoLKY) |
 | | Ape Escape |  [https://www.youtube.com/playlist?list=PLDF25FFC7A3D3F497](https://www.youtube.com/playlist?list=PLDF25FFC7A3D3F497) |
 | | Assassin's Creed 1 | [https://www.youtube.com/watch?v=OKnTUsQ6sb0](https://www.youtube.com/watch?v=OKnTUsQ6sb0) |
 | | Assassin's Creed 2 | [https://www.youtube.com/watch?v=VSFlCOhU6-o](https://www.youtube.com/watch?v=VSFlCOhU6-o) |
@@ -41,7 +42,10 @@ A curated collection of music and soundtracks to get shit done by.
 | | Dear Esther | [https://www.youtube.com/watch?v=rjMCqjDOvRQ](https://www.youtube.com/watch?v=rjMCqjDOvRQ) |
 | | Destiny | [https://youtu.be/EvwDiV2K_0g](https://youtu.be/EvwDiV2K_0g) |
 | | Destiny: The Taken King | [https://youtu.be/YAmivIqIItE](https://youtu.be/YAmivIqIItE) |
-| | Deus Ex Human Revolution | [https://www.youtube.com/watch?v=tyG6YMLEWus](https://www.youtube.com/watch?v=tyG6YMLEWus) |
+| | Destiny: Rise of Iron | [https://www.youtube.com/watch?v=PfrtX-foWUA](https://www.youtube.com/watch?v=PfrtX-foWUA) |
+| | Deus Ex | [https://www.youtube.com/watch?v=2yDVM77lGlM](https://www.youtube.com/watch?v=2yDVM77lGlM) |
+| | Deus Ex: Human Revolution | [https://www.youtube.com/watch?v=tyG6YMLEWus](https://www.youtube.com/watch?v=tyG6YMLEWus) |
+| | Deus Ex: Mankind Divided | [https://www.youtube.com/watch?v=kkcKnWrCZ7k](https://www.youtube.com/watch?v=kkcKnWrCZ7k) |
 | | Donkey Kong Country 2 | [https://youtu.be/cbreFmRDN3E](https://youtu.be/cbreFmRDN3E) |
 | | Dragon Age Inquisition | [https://www.youtube.com/watch?v=I9FvEhX3E0w](https://www.youtube.com/watch?v=I9FvEhX3E0w) |
 | | Dragon Age Origins | [https://www.youtube.com/watch?v=NQ5S8vs2n0U](https://www.youtube.com/watch?v=NQ5S8vs2n0U) |
@@ -117,12 +121,14 @@ A curated collection of music and soundtracks to get shit done by.
 | | Mirrors Edge | [https://www.youtube.com/watch?v=Y05wiQQbFLU](https://www.youtube.com/watch?v=Y05wiQQbFLU) |
 | | Mortal Kombat theme | [https://www.youtube.com/watch?v=JikPgxdmpJY](https://www.youtube.com/watch?v=JikPgxdmpJY) |
 |<a name="games-n">[N](#getshitdonemusic)</a>| Need 4 Speed Most Wanted | [https://www.youtube.com/watch?v=zK5Dw7j1QZM](https://www.youtube.com/watch?v=zK5Dw7j1QZM) |
+| | No Man's Sky | [https://www.youtube.com/watch?v=EZMJPNekzds](https://www.youtube.com/watch?v=EZMJPNekzds) |
 |<a name="games-o">[O](#getshitdonemusic)</a>| Oni | [https://www.youtube.com/watch?v=GbGvEDuErUo](https://www.youtube.com/watch?v=GbGvEDuErUo) |
 | | Ori and the Blind Forest | [https://www.youtube.com/watch?v=MkzeOmkOUHM](https://www.youtube.com/watch?v=MkzeOmkOUHM) |
 |<a name="games-p">[P](#getshitdonemusic)</a>| Portal | [https://www.youtube.com/watch?v=Kgny67NTtw0](https://www.youtube.com/watch?v=Kgny67NTtw0) |
 | | Portal 2 | [https://www.youtube.com/watch?v=y_gknRMZ-OU](https://www.youtube.com/watch?v=y_gknRMZ-OU) |
 |<a name="games-r">[R](#getshitdonemusic)</a>| Rainbow Six: Siege | [https://www.youtube.com/watch?v=eTXTUuYyIKY](https://www.youtube.com/watch?v=eTXTUuYyIKY) |
 | | Rayman Origins | [https://www.youtube.com/watch?v=OTYhwDjIheA](https://www.youtube.com/watch?v=OTYhwDjIheA) |
+| | ReCore | [https://www.youtube.com/watch?v=GCCRwxIrtok](https://www.youtube.com/watch?v=GCCRwxIrtok) |
 | | Red Dead Redemption | [https://www.youtube.com/watch?v=S6tcs0_NAUI](https://www.youtube.com/watch?v=S6tcs0_NAUI) |
 | | Rise of the Tomb Raider | [https://www.youtube.com/watch?v=YB6la1r7qRI](https://www.youtube.com/watch?v=YB6la1r7qRI) |
 | | ROCKETSROCKETSROCKETS | [https://www.youtube.com/playlist?list=PLiU5yN....](https://www.youtube.com/playlist?list=PLiU5yN_3jHCxaEkqRjDCcKXXvTPEuNem3) |
@@ -133,6 +139,7 @@ A curated collection of music and soundtracks to get shit done by.
 | | Skyrim | [https://www.youtube.com/watch?v=TWv3DfoiigM](https://www.youtube.com/watch?v=TWv3DfoiigM) |
 | | Star Citizen | [https://www.youtube.com/playlist?list=PLLcod52t0kpdZJxdds7VF3N...](https://www.youtube.com/playlist?list=PLLcod52t0kpdZJxdds7VF3NX-XzM3tmb8) |
 | | Star Control 2 | [https://www.youtube.com/watch?v=QWOyXmLOA...](https://www.youtube.com/watch?v=QWOyXmLOA...) |
+| | Subnautica | [https://www.youtube.com/watch?v=xSMc4yh7xtA](https://www.youtube.com/watch?v=xSMc4yh7xtA) |
 | | Super Meat Boy | [https://youtu.be/GZhoE9S5YbQ](https://youtu.be/GZhoE9S5YbQ) |
 | | Sword & Sworcery | [https://www.youtube.com/watch?v=xCcWWcL_Sg4](https://www.youtube.com/watch?v=xCcWWcL_Sg4) |
 |<a name="games-t">[T](#getshitdonemusic)</a>| The Binding of Isaac | [https://www.youtube.com/watch?v=AX6h8_Y_ot4](https://www.youtube.com/watch?v=AX6h8_Y_ot4) |
