@@ -14,6 +14,7 @@ A curated collection of music and soundtracks to get shit done by.
 |<a name="games-a">[A](#getshitdonemusic)</a>| Abzû | [https://www.youtube.com/watch?v=TCuhQLgDgIg](https://www.youtube.com/watch?v=TCuhQLgDgIg) |
 | | Aion | [https://www.youtube.com/watch?v=70zSXGVoLKY](https://www.youtube.com/watch?v=70zSXGVoLKY) |
 | | Ape Escape |  [https://www.youtube.com/playlist?list=PLDF25FFC7A3D3F497](https://www.youtube.com/playlist?list=PLDF25FFC7A3D3F497) |
+| | ARK Survival | [https://www.youtube.com/playlist?list=PLqD_Pn7p3KeYCWbmxJ46EA8zb7aoZexsY](https://www.youtube.com/playlist?list=PLqD_Pn7p3KeYCWbmxJ46EA8zb7aoZexsY) |
 | | Assassin's Creed 1 | [https://www.youtube.com/watch?v=OKnTUsQ6sb0](https://www.youtube.com/watch?v=OKnTUsQ6sb0) |
 | | Assassin's Creed 2 | [https://www.youtube.com/watch?v=VSFlCOhU6-o](https://www.youtube.com/watch?v=VSFlCOhU6-o) |
 | | Assassin's Creed 3 | [https://www.youtube.com/watch?v=3QByfthwPYU](https://www.youtube.com/watch?v=3QByfthwPYU) |
