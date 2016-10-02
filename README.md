@@ -1,7 +1,7 @@
 # GetShitDoneMusic
 A curated collection of music and soundtracks to get shit done by.
 
-  - [Game Soundtracks](#game-soundtracks) - [A](#games-a) [B](#games-b) [C](#games-c) [D](#games-d) [E](#games-e) [F](#games-f) [G](#games-g) [H](#games-h) I [J](#games-j) K [L](#games-l) [M](#games-m) [N](#games-n) [O](#games-o) [P](#games-p) Q [R](#games-r) [S](#games-s) [T](#games-t) [U](#games-u) [V](#games-v) [W](#games-w) [X](#games-x) Y Z
+  - [Game Soundtracks](#game-soundtracks) - [A](#games-a) [B](#games-b) [C](#games-c) [D](#games-d) [E](#games-e) [F](#games-f) [G](#games-g) [H](#games-h) I [J](#games-j) K [L](#games-l) [M](#games-m) [N](#games-n) [O](#games-o) [P](#games-p) [Q](#games-q) [R](#games-r) [S](#games-s) [T](#games-t) [U](#games-u) [V](#games-v) [W](#games-w) [X](#games-x) Y Z
   - [Movie/TV-Show Soundtracks](#movietv-show-soundtracks)
   - [Other Music](#other-music)
   - [Noise Generators](#noise-generators)
@@ -127,6 +127,7 @@ A curated collection of music and soundtracks to get shit done by.
 | | Ori and the Blind Forest | [https://www.youtube.com/watch?v=MkzeOmkOUHM](https://www.youtube.com/watch?v=MkzeOmkOUHM) |
 |<a name="games-p">[P](#getshitdonemusic)</a>| Portal | [https://www.youtube.com/watch?v=Kgny67NTtw0](https://www.youtube.com/watch?v=Kgny67NTtw0) |
 | | Portal 2 | [https://www.youtube.com/watch?v=y_gknRMZ-OU](https://www.youtube.com/watch?v=y_gknRMZ-OU) |
+|<a name="games-q">[Q](#getshitdonemusic)</a>| Quantum Break | [https://www.youtube.com/watch?v=qNaGc7fsifg](https://www.youtube.com/watch?v=qNaGc7fsifg) |
 |<a name="games-r">[R](#getshitdonemusic)</a>| Rainbow Six: Siege | [https://www.youtube.com/watch?v=eTXTUuYyIKY](https://www.youtube.com/watch?v=eTXTUuYyIKY) |
 | | Rayman Origins | [https://www.youtube.com/watch?v=OTYhwDjIheA](https://www.youtube.com/watch?v=OTYhwDjIheA) |
 | | ReCore | [https://www.youtube.com/watch?v=GCCRwxIrtok](https://www.youtube.com/watch?v=GCCRwxIrtok) |
