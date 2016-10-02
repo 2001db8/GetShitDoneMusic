@@ -138,6 +138,7 @@ A curated collection of music and soundtracks to get shit done by.
 | | Sim City 3000 | [https://www.youtube.com/watch?v=qkXOxLpdMds](https://www.youtube.com/watch?v=qkXOxLpdMds) |
 | | Sim City 4 | [https://www.youtube.com/watch?v=PSv37HwwojU](https://www.youtube.com/watch?v=PSv37HwwojU) |
 | | Skyrim | [https://www.youtube.com/watch?v=TWv3DfoiigM](https://www.youtube.com/watch?v=TWv3DfoiigM) |
+| | SOMA | [https://www.youtube.com/watch?v=vTC5GG8zRcs](https://www.youtube.com/watch?v=vTC5GG8zRcs) |
 | | Star Citizen | [https://www.youtube.com/playlist?list=PLLcod52t0kpdZJxdds7VF3N...](https://www.youtube.com/playlist?list=PLLcod52t0kpdZJxdds7VF3NX-XzM3tmb8) |
 | | Star Control 2 | [https://www.youtube.com/watch?v=QWOyXmLOA...](https://www.youtube.com/watch?v=QWOyXmLOA...) |
 | | Subnautica | [https://www.youtube.com/watch?v=xSMc4yh7xtA](https://www.youtube.com/watch?v=xSMc4yh7xtA) |
@@ -148,10 +149,13 @@ A curated collection of music and soundtracks to get shit done by.
 | | The Legend of Zelda: The Wind Waker | [https://youtu.be/KnJiC8FeI2I](https://youtu.be/KnJiC8FeI2I) |
 | | The Legend of Zelda: Twilight Princess | [https://www.youtube.com/watch?v=ox2D-EJoB0w](https://www.youtube.com/watch?v=ox2D-EJoB0w) |
 | | The Legend of Zelda - Skyward Sword | [https://www.youtube.com/watch?v=JLLUQ03RWro](https://www.youtube.com/watch?v=JLLUQ03RWro) |
+| | The Turing Test | [https://www.youtube.com/watch?v=MYo7tABrXrA](https://www.youtube.com/watch?v=MYo7tABrXrA) |
+| | The Witness | [https://www.youtube.com/watch?v=ivasQmkEC8s](https://www.youtube.com/watch?v=ivasQmkEC8s) |
 | | Tomb Raider | [https://www.youtube.com/watch?v=-wR1xUHm4rs](https://www.youtube.com/watch?v=-wR1xUHm4rs) |
 | | Tomb Raider, Rise of the | [https://www.youtube.com/watch?v=YB6la1r7qRI](https://www.youtube.com/watch?v=YB6la1r7qRI) |
 | | Tom Clancy's The Division | [https://www.youtube.com/watch?v=3xvMSC06GQQ](https://www.youtube.com/watch?v=3xvMSC06GQQ) |
 | | Tony Hawk Pro Skater Spotify Playlist | [https://open.spotify.com/user/.../3IdxCfpLeuIEL3Fc2E39Bz](https://open.spotify.com/user/.../3IdxCfpLeuIEL3Fc2E39Bz) |
+| | Transistor | [https://www.youtube.com/watch?v=-zA1jRmAYfU](https://www.youtube.com/watch?v=-zA1jRmAYfU) |
 |<a name="games-u">[U](#getshitdonemusic)</a>| Undertale | [https://www.youtube.com/watch?v=SxNcKXjfaQo](https://www.youtube.com/watch?v=SxNcKXjfaQo) |
 |<a name="games-v">[V](#getshitdonemusic)</a>| Valiant Hearts - The Grat War | [https://www.youtube.com/watch?v=l3rClyAOxwA](https://www.youtube.com/watch?v=l3rClyAOxwA) |
 |<a name="games-w">[W](#getshitdonemusic)</a>| Warcraft 3 | [https://www.youtube.com/watch?v=xPoSAo7YFsw](https://www.youtube.com/watch?v=xPoSAo7YFsw) |
