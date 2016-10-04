@@ -1,5 +1,5 @@
 # GetShitDoneMusic
-A curated collection of music and soundtracks to get shit done by.
+A curated collection of music and soundtracks to help you get shit done.
 
   - [Game Soundtracks](#game-soundtracks) - [A](#games-a) [B](#games-b) [C](#games-c) [D](#games-d) [E](#games-e) [F](#games-f) [G](#games-g) [H](#games-h) I [J](#games-j) K [L](#games-l) [M](#games-m) [N](#games-n) [O](#games-o) [P](#games-p) [Q](#games-q) [R](#games-r) [S](#games-s) [T](#games-t) [U](#games-u) [V](#games-v) [W](#games-w) [X](#games-x) Y Z
   - [Movie/TV-Show Soundtracks](#movietv-show-soundtracks)
