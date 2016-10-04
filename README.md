@@ -48,6 +48,7 @@ A curated collection of music and soundtracks to get shit done by.
 | | Deus Ex: Human Revolution | [https://www.youtube.com/watch?v=tyG6YMLEWus](https://www.youtube.com/watch?v=tyG6YMLEWus) |
 | | Deus Ex: Mankind Divided | [https://www.youtube.com/watch?v=kkcKnWrCZ7k](https://www.youtube.com/watch?v=kkcKnWrCZ7k) |
 | | Donkey Kong Country 2 | [https://youtu.be/cbreFmRDN3E](https://youtu.be/cbreFmRDN3E) |
+| | Doom | [https://youtu.be/Jm932Sqwf5E](https://youtu.be/Jm932Sqwf5E) |
 | | Dragon Age Inquisition | [https://www.youtube.com/watch?v=I9FvEhX3E0w](https://www.youtube.com/watch?v=I9FvEhX3E0w) |
 | | Dragon Age Origins | [https://www.youtube.com/watch?v=NQ5S8vs2n0U](https://www.youtube.com/watch?v=NQ5S8vs2n0U) |
 | | Duet | [https://timshiel.bandcamp.com/album/duet-original-soundtrack](https://timshiel.bandcamp.com/album/duet-original-soundtrack) |
