@@ -53,7 +53,8 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Dragon Age Origins | [https://www.youtube.com/watch?v=NQ5S8vs2n0U](https://www.youtube.com/watch?v=NQ5S8vs2n0U) |
 | | Duet | [https://timshiel.bandcamp.com/album/duet-original-soundtrack](https://timshiel.bandcamp.com/album/duet-original-soundtrack) |
 | | Dustforce | [https://www.youtube.com/watch?v=8_B8ekeZTCM](https://www.youtube.com/watch?v=8_B8ekeZTCM) |
-|<a name="games-e">[E](#getshitdonemusic)</a>| Elder Scrolls IV | [https://www.youtube.com/watch?v=SpqSdORmCX4](https://www.youtube.com/watch?v=SpqSdORmCX4) |
+|<a name="games-e">[E](#getshitdonemusic)</a>| Elder Scrolls III: Morrowind | [https://www.youtube.com/watch?v=xULTMMgwLuo](https://www.youtube.com/watch?v=xULTMMgwLuo) |
+| | Elder Scrolls IV: Oblivion | [https://www.youtube.com/watch?v=SpqSdORmCX4](https://www.youtube.com/watch?v=SpqSdORmCX4) |
 | | Eve Online | [https://soundcloud.com/ccpgames/sets/eve-online-in-game-tracks](https://soundcloud.com/ccpgames/sets/eve-online-in-game-tracks) |
 |<a name="games-f">[F](#getshitdonemusic)</a>| Fallout: New Vegas | [https://www.youtube.com/watch?v=6Yy7YLOTYEs](https://www.youtube.com/watch?v=6Yy7YLOTYEs) |
 | | Far Cry | [https://www.youtube.com/watch?v=R4DAsOjJBVI](https://www.youtube.com/watch?v=R4DAsOjJBVI) |
