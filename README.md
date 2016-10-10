@@ -104,7 +104,8 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Last of Us | [https://www.youtube.com/watch?v=2q-cY8-JZUM](https://www.youtube.com/watch?v=2q-cY8-JZUM) |
 | | Life is Strange | [https://www.youtube.com/watch?v=0gzU8dGFG9s](https://www.youtube.com/watch?v=0gzU8dGFG9s) |
 | | London Philharmonic Orchestra - Greatest Video Game Music | [https://www.youtube.com/watch?v=ZyvwODEjmXw](https://www.youtube.com/watch?v=ZyvwODEjmXw) |
-|<a name="games-m">[M](#getshitdonemusic)</a>| Mass Effect | [https://www.youtube.com/watch?v=uhesDs6FWpo](https://www.youtube.com/watch?v=uhesDs6FWpo) |
+|<a name="games-m">[M](#getshitdonemusic)</a>| Mafia III | [https://www.youtube.com/watch?v=7aa5BBK1fJM](https://www.youtube.com/watch?v=7aa5BBK1fJM) 
+| | Mass Effect | [https://www.youtube.com/watch?v=uhesDs6FWpo](https://www.youtube.com/watch?v=uhesDs6FWpo) |
 | | Mass Effect 2 | [https://www.youtube.com/watch?v=hBaN_Ea5i74](https://www.youtube.com/watch?v=hBaN_Ea5i74) |
 | | Mass Effect 3 | [https://www.youtube.com/watch?v=HuTcsGHfc1g](https://www.youtube.com/watch?v=HuTcsGHfc1g) |
 | | Mass Effect Mix | [https://youtu.be/Mm5AMucpAkc](https://youtu.be/Mm5AMucpAkc) |
