@@ -28,7 +28,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Bastion | [https://youtu.be/oLA0vB9LCTM](https://youtu.be/oLA0vB9LCTM) |
 | | Batman: Arkham Asylum | [https://www.youtube.com/watch?v=uB9e_ruSRqk](https://www.youtube.com/watch?v=uB9e_ruSRqk) |
 | | Batman: Arkham City | [https://www.youtube.com/watch?v=EwT-42p5vzs](https://www.youtube.com/watch?v=EwT-42p5vzs) |
-| | Batman: Arkham Origins | [https://www.youtube.com/watch?v=AAEtp19qIpk](https://www.youtube.com/watch?v=AAEtp19qIpk) |
+| | Batman: Arkham Origins | [https://www.youtube.com/watch?v=BQFkV7zcF9A](https://www.youtube.com/watch?v=BQFkV7zcF9A) |
 | | Beyond: Two Souls | [https://www.youtube.com/watch?v=kXFHZ7cOV08](https://www.youtube.com/watch?v=kXFHZ7cOV08) |
 | | Bloodborne | [https://www.youtube.com/watch?v=Bki0PjoV14M](https://www.youtube.com/watch?v=Bki0PjoV14M) |
 | | Braid | [https://youtu.be/TqOVpiXfq0o](https://youtu.be/TqOVpiXfq0o) |
