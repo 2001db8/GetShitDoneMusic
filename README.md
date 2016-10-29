@@ -38,6 +38,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Civ Baba Yetu | [https://www.youtube.com/watch?v=IJiHDmyhE1A](https://www.youtube.com/watch?v=IJiHDmyhE1A) |
 | | Civilization 4 | [https://www.youtube.com/playlist?list=PL148A567BB5EB0821](https://www.youtube.com/playlist?list=PL148A567BB5EB0821) |
 | | Civilization 5 | [https://www.youtube.com/watch?v=rH-Qw2pbrNk](https://www.youtube.com/watch?v=rH-Qw2pbrNk) |
+| | Civilization 6 | [https://www.youtube.com/watch?v=eqJFVg05b8Q](https://www.youtube.com/watch?v=eqJFVg05b8Q) |
 | | Command and Conquer | [https://www.youtube.com/watch?v=Z2MZzIhjlpY](https://www.youtube.com/watch?v=Z2MZzIhjlpY) |
 |<a name="games-d">[D](#getshitdonemusic)</a>| Darksiders | [https://www.youtube.com/watch?v=IYEZTeH4AHU](https://www.youtube.com/watch?v=IYEZTeH4AHU) |
 | | Dear Esther | [https://www.youtube.com/watch?v=rjMCqjDOvRQ](https://www.youtube.com/watch?v=rjMCqjDOvRQ) |
