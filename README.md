@@ -161,7 +161,11 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Tom Clancy's The Division | [https://www.youtube.com/watch?v=3xvMSC06GQQ](https://www.youtube.com/watch?v=3xvMSC06GQQ) |
 | | Tony Hawk Pro Skater Spotify Playlist | [https://open.spotify.com/user/.../3IdxCfpLeuIEL3Fc2E39Bz](https://open.spotify.com/user/.../3IdxCfpLeuIEL3Fc2E39Bz) |
 | | Transistor | [https://www.youtube.com/watch?v=-zA1jRmAYfU](https://www.youtube.com/watch?v=-zA1jRmAYfU) |
-|<a name="games-u">[U](#getshitdonemusic)</a>| Undertale | [https://www.youtube.com/watch?v=SxNcKXjfaQo](https://www.youtube.com/watch?v=SxNcKXjfaQo) |
+|<a name="games-u">[U](#getshitdonemusic)</a>| Uncharted | [https://www.youtube.com/watch?v=4ROYScbyC7Y](https://www.youtube.com/watch?v=4ROYScbyC7Y) |
+| | Uncharted 2 | [https://www.youtube.com/watch?v=melSYCv-ivI](https://www.youtube.com/watch?v=melSYCv-ivI) |
+| | Uncharted 3 | [https://www.youtube.com/watch?v=OO7kW_-u2y0](https://www.youtube.com/watch?v=OO7kW_-u2y0) |
+| | Uncharted 4 | [https://www.youtube.com/watch?v=cMbJxZWAzuA](https://www.youtube.com/watch?v=cMbJxZWAzuA) |
+| | Undertale | [https://www.youtube.com/watch?v=SxNcKXjfaQo](https://www.youtube.com/watch?v=SxNcKXjfaQo) |
 |<a name="games-v">[V](#getshitdonemusic)</a>| Valiant Hearts - The Grat War | [https://www.youtube.com/watch?v=l3rClyAOxwA](https://www.youtube.com/watch?v=l3rClyAOxwA) |
 |<a name="games-w">[W](#getshitdonemusic)</a>| Warcraft 3 | [https://www.youtube.com/watch?v=xPoSAo7YFsw](https://www.youtube.com/watch?v=xPoSAo7YFsw) |
 | | Watch Dogs | [https://www.youtube.com/watch?v=BJbMaRf51c4](https://www.youtube.com/watch?v=BJbMaRf51c4) |
