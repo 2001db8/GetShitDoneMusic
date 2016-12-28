@@ -149,6 +149,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | SOMA | [https://www.youtube.com/watch?v=vTC5GG8zRcs](https://www.youtube.com/watch?v=vTC5GG8zRcs) |
 | | Star Citizen | [https://www.youtube.com/playlist?list=PLLcod52t0kpdZJxdds7VF3N...](https://www.youtube.com/playlist?list=PLLcod52t0kpdZJxdds7VF3NX-XzM3tmb8) |
 | | Star Control 2 | [https://www.youtube.com/watch?v=QWOyXmLOA...](https://www.youtube.com/watch?v=QWOyXmLOA...) |
+| | State of Decay | [https://www.youtube.com/watch?v=WpHgsuJsBeE](https://www.youtube.com/watch?v=WpHgsuJsBeE) |
 | | Subnautica | [https://www.youtube.com/watch?v=xSMc4yh7xtA](https://www.youtube.com/watch?v=xSMc4yh7xtA) |
 | | Super Meat Boy | [https://youtu.be/GZhoE9S5YbQ](https://youtu.be/GZhoE9S5YbQ) |
 | | Sword & Sworcery | [https://www.youtube.com/watch?v=xCcWWcL_Sg4](https://www.youtube.com/watch?v=xCcWWcL_Sg4) |
