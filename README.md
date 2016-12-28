@@ -86,7 +86,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Flower | [https://www.youtube.com/watch?v=25RC2PX_EZI](https://www.youtube.com/watch?v=25RC2PX_EZI) |
 | | Freelancer | [https://www.youtube.com/watch?v=ot7yWxqYO6E](https://www.youtube.com/watch?v=ot7yWxqYO6E) |
 | | FTL | [http://benprunty.bandcamp.com/album/ftl](http://benprunty.bandcamp.com/album/ftl) |
-|<a name="games-g">[G](#getshitdonemusic)</a>| Gothic 3 | [https://www.youtube.com/watch?v=QgrgPqGoKk4)(https://www.youtube.com/watch?v=QgrgPqGoKk4) |
+|<a name="games-g">[G](#getshitdonemusic)</a>| Gothic 3 | [https://www.youtube.com/watch?v=QgrgPqGoKk4)](https://www.youtube.com/watch?v=QgrgPqGoKk4) |
 | | Grim Fandango | [https://www.youtube.com/watch?v=2u9D3CfoZpE](https://www.youtube.com/watch?v=2u9D3CfoZpE) |
 | | Guild Wars 2 | [https://www.youtube.com/watch?v=JCHVIUEjzO0](https://www.youtube.com/watch?v=JCHVIUEjzO0) |
 | | Guild Wars (7 hours) | [https://www.youtube.com/watch?v=0cVB7GT3RWw](https://www.youtube.com/watch?v=0cVB7GT3RWw) |
