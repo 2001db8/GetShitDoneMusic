@@ -207,6 +207,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | Indie Game: The Movie. | [https://www.youtube.com/watch?v=Y63fr6wciDY](https://www.youtube.com/watch?v=Y63fr6wciDY) |
 | Interstellar | [https://www.youtube.com/watch?v=-1U9LNsfMTI](https://www.youtube.com/watch?v=-1U9LNsfMTI) |
 | Limitless | [https://www.youtube.com/playlist?list=PL8B437430F86D7D37](https://www.youtube.com/playlist?list=PL8B437430F86D7D37) |
+| Naruto Shippuden 3 | [https://www.youtube.com/watch?v=fniTt4ylQO8](https://www.youtube.com/watch?v=fniTt4ylQO8) |
 | Oblivion | [https://www.youtube.com/watch?v=sYD_U1CChew](https://www.youtube.com/watch?v=sYD_U1CChew) |
 | Studio Ghibli - 25 Years Concert | [https://www.youtube.com/watch?v=X9mGQU7rGGM](https://www.youtube.com/watch?v=X9mGQU7rGGM) |
 | The Social Network | [https://www.youtube.com/watch?v=yydZbVoCbn0](https://www.youtube.com/watch?v=yydZbVoCbn0) |
