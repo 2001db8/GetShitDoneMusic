@@ -106,6 +106,7 @@ A curated collection of music and soundtracks to help you get shit done.
 |<a name="games-j">[J](#getshitdonemusic)</a>| Journey | [https://www.youtube.com/watch?v=M3hFN8UrBPw](https://www.youtube.com/watch?v=M3hFN8UrBPw) |
 |<a name="games-l">[L](#getshitdonemusic)</a>| LA Noire Soundtrack | [https://www.youtube.com/watch?v=7bW75OwVXZI](https://www.youtube.com/watch?v=7bW75OwVXZI) |
 | | Last of Us | [https://www.youtube.com/watch?v=2q-cY8-JZUM](https://www.youtube.com/watch?v=2q-cY8-JZUM) |
+| | Layers of Fear | [https://www.youtube.com/watch?v=_xfZ2N0br2A](https://www.youtube.com/watch?v=_xfZ2N0br2A) |
 | | Life is Strange | [https://www.youtube.com/watch?v=0gzU8dGFG9s](https://www.youtube.com/watch?v=0gzU8dGFG9s) |
 | | London Philharmonic Orchestra - Greatest Video Game Music | [https://www.youtube.com/watch?v=ZyvwODEjmXw](https://www.youtube.com/watch?v=ZyvwODEjmXw) |
 |<a name="games-m">[M](#getshitdonemusic)</a>| Mafia III | [https://www.youtube.com/watch?v=7aa5BBK1fJM](https://www.youtube.com/watch?v=7aa5BBK1fJM) 
