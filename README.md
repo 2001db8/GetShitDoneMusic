@@ -41,6 +41,9 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Civilization 6 | [https://www.youtube.com/watch?v=eqJFVg05b8Q](https://www.youtube.com/watch?v=eqJFVg05b8Q) |
 | | Command and Conquer | [https://www.youtube.com/watch?v=Z2MZzIhjlpY](https://www.youtube.com/watch?v=Z2MZzIhjlpY) |
 |<a name="games-d">[D](#getshitdonemusic)</a>| Darksiders | [https://www.youtube.com/watch?v=IYEZTeH4AHU](https://www.youtube.com/watch?v=IYEZTeH4AHU) |
+| | Dark Souls | [https://www.youtube.com/watch?v=ffLbdhP0auc](https://www.youtube.com/watch?v=ffLbdhP0auc) |
+| | Dark Souls II | [https://www.youtube.com/watch?v=P2htKNGrm3c](https://www.youtube.com/watch?v=P2htKNGrm3c) |
+| | Dark Souls III | [https://www.youtube.com/watch?v=PrYPqtWWB3s](https://www.youtube.com/watch?v=PrYPqtWWB3s) | 
 | | Dear Esther | [https://www.youtube.com/watch?v=rjMCqjDOvRQ](https://www.youtube.com/watch?v=rjMCqjDOvRQ) |
 | | Destiny | [https://youtu.be/EvwDiV2K_0g](https://youtu.be/EvwDiV2K_0g) |
 | | Destiny: The Taken King | [https://youtu.be/YAmivIqIItE](https://youtu.be/YAmivIqIItE) |
@@ -187,7 +190,9 @@ A curated collection of music and soundtracks to help you get shit done.
 | | World of Warcraft: Wrath of the Lich King | [https://www.youtube.com/watch?v=EuKGNGZjUJI](https://www.youtube.com/watch?v=EuKGNGZjUJI) |
 | | World of Warcraft: Legion | [https://youtu.be/6Fq18afbWoI](https://youtu.be/6Fq18afbWoI) |
 | | World of Warcraft | [https://www.youtube.com/watch?v=gQFOLOur1jM](https://www.youtube.com/watch?v=gQFOLOur1jM) |
-|<a name="games-x">[X](#getshitdonemusic)</a>| X-Com 2 | [https://www.youtube.com/watch?v=hErQwCMI68A](https://www.youtube.com/watch?v=hErQwCMI68A) |
+|<a name="games-x">[X](#getshitdonemusic)</a>| XCOM 2 | [https://www.youtube.com/watch?v=hErQwCMI68A](https://www.youtube.com/watch?v=hErQwCMI68A) |
+| | XCOM: Enemy Unknown | [https://www.youtube.com/watch?v=_z82dcrSqns](https://www.youtube.com/watch?v=_z82dcrSqns) |
+| | XCOM: Enemy Within | [https://www.youtube.com/watch?v=Wh8CwwhM564](https://www.youtube.com/watch?v=Wh8CwwhM564) |
 | | Xenoblade Chronicles | [https://www.youtube.com/watch?v=bl9dP0CJfbQ](https://www.youtube.com/watch?v=bl9dP0CJfbQ) |
 
 [Back to Top](#getshitdonemusic)
