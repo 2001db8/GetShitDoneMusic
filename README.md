@@ -30,6 +30,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Batman: Arkham Asylum | [https://www.youtube.com/watch?v=uB9e_ruSRqk](https://www.youtube.com/watch?v=uB9e_ruSRqk) |
 | | Batman: Arkham City | [https://www.youtube.com/watch?v=EwT-42p5vzs](https://www.youtube.com/watch?v=EwT-42p5vzs) |
 | | Batman: Arkham Origins | [https://www.youtube.com/watch?v=BQFkV7zcF9A](https://www.youtube.com/watch?v=BQFkV7zcF9A) |
+| | Betrayal at Krondor | [https://www.youtube.com/watch?v=0U0Lh8-apvc](https://www.youtube.com/watch?v=0U0Lh8-apvc) |
 | | Beyond: Two Souls | [https://www.youtube.com/watch?v=kXFHZ7cOV08](https://www.youtube.com/watch?v=kXFHZ7cOV08) |
 | | Bloodborne | [https://www.youtube.com/watch?v=Bki0PjoV14M](https://www.youtube.com/watch?v=Bki0PjoV14M) |
 | | Braid | [https://youtu.be/TqOVpiXfq0o](https://youtu.be/TqOVpiXfq0o) |
@@ -113,6 +114,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Layers of Fear | [https://www.youtube.com/watch?v=_xfZ2N0br2A](https://www.youtube.com/watch?v=_xfZ2N0br2A) |
 | | Life is Strange | [https://www.youtube.com/watch?v=0gzU8dGFG9s](https://www.youtube.com/watch?v=0gzU8dGFG9s) |
 | | London Philharmonic Orchestra - Greatest Video Game Music | [https://www.youtube.com/watch?v=ZyvwODEjmXw](https://www.youtube.com/watch?v=ZyvwODEjmXw) |
+| | Loom | [https://www.youtube.com/watch?v=au7blegxGnQ](https://www.youtube.com/watch?v=au7blegxGnQ) |
 |<a name="games-m">[M](#getshitdonemusic)</a>| Mafia III | [https://www.youtube.com/watch?v=7aa5BBK1fJM](https://www.youtube.com/watch?v=7aa5BBK1fJM) 
 | | Mass Effect | [https://www.youtube.com/watch?v=uhesDs6FWpo](https://www.youtube.com/watch?v=uhesDs6FWpo) |
 | | Mass Effect 2 | [https://www.youtube.com/watch?v=hBaN_Ea5i74](https://www.youtube.com/watch?v=hBaN_Ea5i74) |
@@ -144,6 +146,8 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Rayman Origins | [https://www.youtube.com/watch?v=OTYhwDjIheA](https://www.youtube.com/watch?v=OTYhwDjIheA) |
 | | ReCore | [https://www.youtube.com/watch?v=GCCRwxIrtok](https://www.youtube.com/watch?v=GCCRwxIrtok) |
 | | Red Dead Redemption | [https://www.youtube.com/watch?v=S6tcs0_NAUI](https://www.youtube.com/watch?v=S6tcs0_NAUI) |
+| | Return to Zork (Adlib) | [https://www.youtube.com/watch?v=k-iKphQHxvY](https://www.youtube.com/watch?v=k-iKphQHxvY) |
+| | Return to Zork (CD Audio) | [https://www.youtube.com/watch?v=ouTRmfrBjOw](https://www.youtube.com/watch?v=ouTRmfrBjOw) |
 | | Rise of the Tomb Raider | [https://www.youtube.com/watch?v=YB6la1r7qRI](https://www.youtube.com/watch?v=YB6la1r7qRI) |
 | | ROCKETSROCKETSROCKETS | [https://www.youtube.com/playlist?list=PLiU5yN....](https://www.youtube.com/playlist?list=PLiU5yN_3jHCxaEkqRjDCcKXXvTPEuNem3) |
 |<a name="games-s">[S](#getshitdonemusic)</a>| Several Game OST pieces, 2,5h | [https://www.youtube.com/watch?v=sfXqKHaZwLs](https://www.youtube.com/watch?v=sfXqKHaZwLs) |
