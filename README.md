@@ -15,6 +15,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Aion | [https://www.youtube.com/watch?v=70zSXGVoLKY](https://www.youtube.com/watch?v=70zSXGVoLKY) |
 | | Ape Escape |  [https://www.youtube.com/playlist?list=PLDF25FFC7A3D3F497](https://www.youtube.com/playlist?list=PLDF25FFC7A3D3F497) |
 | | ARK Survival | [https://www.youtube.com/playlist?list=PLqD_Pn7p3KeYCWbmxJ46EA8zb7aoZexsY](https://www.youtube.com/playlist?list=PLqD_Pn7p3KeYCWbmxJ46EA8zb7aoZexsY) |
+| | Ascendancy | [https://www.youtube.com/watch?v=d-11W4NP1hM](https://www.youtube.com/watch?v=d-11W4NP1hM) |
 | | Assassin's Creed 1 | [https://www.youtube.com/watch?v=OKnTUsQ6sb0](https://www.youtube.com/watch?v=OKnTUsQ6sb0) |
 | | Assassin's Creed 2 | [https://www.youtube.com/watch?v=VSFlCOhU6-o](https://www.youtube.com/watch?v=VSFlCOhU6-o) |
 | | Assassin's Creed 3 | [https://www.youtube.com/watch?v=3QByfthwPYU](https://www.youtube.com/watch?v=3QByfthwPYU) |
