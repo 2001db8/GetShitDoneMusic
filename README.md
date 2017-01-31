@@ -154,7 +154,9 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Return to Zork (CD Audio) | [https://www.youtube.com/watch?v=ouTRmfrBjOw](https://www.youtube.com/watch?v=ouTRmfrBjOw) |
 | | Rise of the Tomb Raider | [https://www.youtube.com/watch?v=YB6la1r7qRI](https://www.youtube.com/watch?v=YB6la1r7qRI) |
 | | ROCKETSROCKETSROCKETS | [https://www.youtube.com/playlist?list=PLiU5yN....](https://www.youtube.com/playlist?list=PLiU5yN_3jHCxaEkqRjDCcKXXvTPEuNem3) |
-|<a name="games-s">[S](#getshitdonemusic)</a>| Several Game OST pieces, 2,5h | [https://www.youtube.com/watch?v=sfXqKHaZwLs](https://www.youtube.com/watch?v=sfXqKHaZwLs) |
+|<a name="games-s">[S](#getshitdonemusic)</a>| Samorost 2 | [https://www.youtube.com/watch?v=JHtZM2370Eg](https://www.youtube.com/watch?v=JHtZM2370Eg) |
+| | Samorost 3 | [https://www.youtube.com/watch?v=QXmyZeickj8](https://www.youtube.com/watch?v=QXmyZeickj8) |
+| |Several Game OST pieces, 2,5h | [https://www.youtube.com/watch?v=sfXqKHaZwLs](https://www.youtube.com/watch?v=sfXqKHaZwLs) |
 | | Silent Hill | [https://www.youtube.com/watch?v=0GA3rsU5bNk](https://www.youtube.com/watch?v=0GA3rsU5bNk) |
 | | Sim City 3000 | [https://www.youtube.com/watch?v=qkXOxLpdMds](https://www.youtube.com/watch?v=qkXOxLpdMds) |
 | | Sim City 4 | [https://www.youtube.com/watch?v=PSv37HwwojU](https://www.youtube.com/watch?v=PSv37HwwojU) |
