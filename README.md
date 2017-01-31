@@ -33,7 +33,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Betrayal at Krondor | [https://www.youtube.com/watch?v=0U0Lh8-apvc](https://www.youtube.com/watch?v=0U0Lh8-apvc) |
 | | Beyond: Two Souls | [https://www.youtube.com/watch?v=kXFHZ7cOV08](https://www.youtube.com/watch?v=kXFHZ7cOV08) |
 | | Bloodborne | [https://www.youtube.com/watch?v=Bki0PjoV14M](https://www.youtube.com/watch?v=Bki0PjoV14M) |
-| | Braid | [https://youtu.be/TqOVpiXfq0o](https://youtu.be/TqOVpiXfq0o) |
+| | Braid | [https://www.youtube.com/watch?v=tkRXZiZNuuw](https://www.youtube.com/watch?v=tkRXZiZNuuw) |
 |<a name="games-c">[C](#getshitdonemusic)</a>| Castlevania | [https://www.youtube.com/watch?v=-DpGq8XOKb8](https://www.youtube.com/watch?v=-DpGq8XOKb8) |
 | | Child of Light | [https://www.youtube.com/watch?v=v6KcYN0A5LY](https://www.youtube.com/watch?v=v6KcYN0A5LY) |
 | | Chrono Trigger | [https://www.youtube.com/watch?v=mEoN_Xe-B-s](https://www.youtube.com/watch?v=mEoN_Xe-B-s) |
