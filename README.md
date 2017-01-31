@@ -1,7 +1,7 @@
 # GetShitDoneMusic
 A curated collection of music and soundtracks to help you get shit done.
 
-  - [Game Soundtracks](#game-soundtracks) - [A](#games-a) [B](#games-b) [C](#games-c) [D](#games-d) [E](#games-e) [F](#games-f) [G](#games-g) [H](#games-h) I [J](#games-j) K [L](#games-l) [M](#games-m) [N](#games-n) [O](#games-o) [P](#games-p) [Q](#games-q) [R](#games-r) [S](#games-s) [T](#games-t) [U](#games-u) [V](#games-v) [W](#games-w) [X](#games-x) Y Z
+  - [Game Soundtracks](#game-soundtracks) - [A](#games-a) [B](#games-b) [C](#games-c) [D](#games-d) [E](#games-e) [F](#games-f) [G](#games-g) [H](#games-h) [I](#games-i) [J](#games-j) K [L](#games-l) [M](#games-m) [N](#games-n) [O](#games-o) [P](#games-p) [Q](#games-q) [R](#games-r) [S](#games-s) [T](#games-t) [U](#games-u) [V](#games-v) [W](#games-w) [X](#games-x) Y Z
   - [Movie/TV-Show Soundtracks](#movietv-show-soundtracks)
   - [Other Music](#other-music)
   - [Noise Generators](#noise-generators)
@@ -93,6 +93,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | FTL | [http://benprunty.bandcamp.com/album/ftl](http://benprunty.bandcamp.com/album/ftl) |
 |<a name="games-g">[G](#getshitdonemusic)</a>| Gothic 3 | [https://www.youtube.com/watch?v=QgrgPqGoKk4](https://www.youtube.com/watch?v=QgrgPqGoKk4) |
 | | Grim Fandango | [https://www.youtube.com/watch?v=2u9D3CfoZpE](https://www.youtube.com/watch?v=2u9D3CfoZpE) |
+| | Grim Fandango (Remastered) | [https://www.youtube.com/watch?v=km6bLtiSSq4](https://www.youtube.com/watch?v=km6bLtiSSq4) |
 | | Guild Wars 2 | [https://www.youtube.com/watch?v=JCHVIUEjzO0](https://www.youtube.com/watch?v=JCHVIUEjzO0) |
 | | Guild Wars (7 hours) | [https://www.youtube.com/watch?v=0cVB7GT3RWw](https://www.youtube.com/watch?v=0cVB7GT3RWw) |
 |<a name="games-h">[H](#getshitdonemusic)</a>| Half Life 1 | [https://www.youtube.com/watch?v=AaXsb5kS31s](https://www.youtube.com/watch?v=AaXsb5kS31s) |
@@ -108,6 +109,8 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Homeworld 2 | [https://www.youtube.com/watch?v=9rFwaf2GaHE](https://www.youtube.com/watch?v=9rFwaf2GaHE) |
 | | Hotline Miami | [https://www.youtube.com/watch?v=oKD-MVfC9Ag](https://www.youtube.com/watch?v=oKD-MVfC9Ag) |
 | | Hotline Miami 2 | [https://youtu.be/dEFcpyy_vq8](https://youtu.be/dEFcpyy_vq8) |
+|<a name="games-i">[I](#getshitdonemusic)</a>| Indiana Jones and the Fate of Atlantis | [https://www.youtube.com/watch?v=LF3i-ozWOso](https://www.youtube.com/watch?v=LF3i-ozWOso) |
+| | Indiana Jones and the Emperor's Tomb | [https://www.youtube.com/watch?v=rkiSthoh4zo](https://www.youtube.com/watch?v=rkiSthoh4zo) |
 |<a name="games-j">[J](#getshitdonemusic)</a>| Journey | [https://www.youtube.com/watch?v=M3hFN8UrBPw](https://www.youtube.com/watch?v=M3hFN8UrBPw) |
 |<a name="games-l">[L](#getshitdonemusic)</a>| LA Noire Soundtrack | [https://www.youtube.com/watch?v=7bW75OwVXZI](https://www.youtube.com/watch?v=7bW75OwVXZI) |
 | | Last of Us | [https://www.youtube.com/watch?v=2q-cY8-JZUM](https://www.youtube.com/watch?v=2q-cY8-JZUM) |
@@ -135,6 +138,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Minecraft | [https://www.youtube.com/watch?v=Dg0IjOzopYU](https://www.youtube.com/watch?v=Dg0IjOzopYU) |
 | | Mirrors Edge | [https://www.youtube.com/watch?v=Y05wiQQbFLU](https://www.youtube.com/watch?v=Y05wiQQbFLU) |
 | | Mortal Kombat theme | [https://www.youtube.com/watch?v=JikPgxdmpJY](https://www.youtube.com/watch?v=JikPgxdmpJY) |
+| | Myst | [https://www.youtube.com/watch?v=QCARJeNY03A](https://www.youtube.com/watch?v=QCARJeNY03A) |
 |<a name="games-n">[N](#getshitdonemusic)</a>| Need 4 Speed Most Wanted | [https://www.youtube.com/watch?v=zK5Dw7j1QZM](https://www.youtube.com/watch?v=zK5Dw7j1QZM) |
 | | No Man's Sky | [https://www.youtube.com/watch?v=EZMJPNekzds](https://www.youtube.com/watch?v=EZMJPNekzds) |
 |<a name="games-o">[O](#getshitdonemusic)</a>| Oni | [https://www.youtube.com/watch?v=GbGvEDuErUo](https://www.youtube.com/watch?v=GbGvEDuErUo) |
@@ -178,6 +182,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Uncharted 2 | [https://www.youtube.com/watch?v=melSYCv-ivI](https://www.youtube.com/watch?v=melSYCv-ivI) |
 | | Uncharted 3 | [https://www.youtube.com/watch?v=OO7kW_-u2y0](https://www.youtube.com/watch?v=OO7kW_-u2y0) |
 | | Uncharted 4 | [https://www.youtube.com/watch?v=cMbJxZWAzuA](https://www.youtube.com/watch?v=cMbJxZWAzuA) |
+| | Under a Killing Moon | [https://www.youtube.com/watch?v=88RryK0hhok](https://www.youtube.com/watch?v=88RryK0hhok) |
 | | Undertale | [https://www.youtube.com/watch?v=SxNcKXjfaQo](https://www.youtube.com/watch?v=SxNcKXjfaQo) |
 |<a name="games-v">[V](#getshitdonemusic)</a>| Valiant Hearts - The Grat War | [https://www.youtube.com/watch?v=l3rClyAOxwA](https://www.youtube.com/watch?v=l3rClyAOxwA) |
 |<a name="games-w">[W](#getshitdonemusic)</a>| Warcraft 3 | [https://www.youtube.com/watch?v=xPoSAo7YFsw](https://www.youtube.com/watch?v=xPoSAo7YFsw) |
