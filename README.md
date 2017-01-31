@@ -153,6 +153,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Return to Zork (Adlib) | [https://www.youtube.com/watch?v=k-iKphQHxvY](https://www.youtube.com/watch?v=k-iKphQHxvY) |
 | | Return to Zork (CD Audio) | [https://www.youtube.com/watch?v=ouTRmfrBjOw](https://www.youtube.com/watch?v=ouTRmfrBjOw) |
 | | Rise of the Tomb Raider | [https://www.youtube.com/watch?v=YB6la1r7qRI](https://www.youtube.com/watch?v=YB6la1r7qRI) |
+| | Risk of Rain | [https://www.youtube.com/watch?v=kU7WycrkiEE](https://www.youtube.com/watch?v=kU7WycrkiEE) |
 | | ROCKETSROCKETSROCKETS | [https://www.youtube.com/playlist?list=PLiU5yN....](https://www.youtube.com/playlist?list=PLiU5yN_3jHCxaEkqRjDCcKXXvTPEuNem3) |
 |<a name="games-s">[S](#getshitdonemusic)</a>| Samorost 2 | [https://www.youtube.com/watch?v=JHtZM2370Eg](https://www.youtube.com/watch?v=JHtZM2370Eg) |
 | | Samorost 3 | [https://www.youtube.com/watch?v=QXmyZeickj8](https://www.youtube.com/watch?v=QXmyZeickj8) |
