@@ -13,6 +13,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | :---: | --- | --- |
 |<a name="games-a">[A](#getshitdonemusic)</a>| Abzû | [https://www.youtube.com/watch?v=TCuhQLgDgIg](https://www.youtube.com/watch?v=TCuhQLgDgIg) |
 | | Aion | [https://www.youtube.com/watch?v=70zSXGVoLKY](https://www.youtube.com/watch?v=70zSXGVoLKY) |
+| | Albion Online | [https://www.youtube.com/watch?v=157KMnypfJ0](https://www.youtube.com/watch?v=157KMnypfJ0) |
 | | Ape Escape |  [https://www.youtube.com/playlist?list=PLDF25FFC7A3D3F497](https://www.youtube.com/playlist?list=PLDF25FFC7A3D3F497) |
 | | ARK Survival | [https://www.youtube.com/playlist?list=PLqD_Pn7p3KeYCWbmxJ46EA8zb7aoZexsY](https://www.youtube.com/playlist?list=PLqD_Pn7p3KeYCWbmxJ46EA8zb7aoZexsY) |
 | | Ascendancy | [https://www.youtube.com/watch?v=d-11W4NP1hM](https://www.youtube.com/watch?v=d-11W4NP1hM) |
