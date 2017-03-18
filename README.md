@@ -110,6 +110,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Heavy Rain | [https://www.youtube.com/watch?v=zHI2MgASRXQ](https://www.youtube.com/watch?v=zHI2MgASRXQ) |
 | | Homeworld: Deserts of Kharak | [https://www.youtube.com/watch?v=bcgQLp7Oj3M](https://www.youtube.com/watch?v=bcgQLp7Oj3M) |
 | | Homeworld 2 | [https://www.youtube.com/watch?v=9rFwaf2GaHE](https://www.youtube.com/watch?v=9rFwaf2GaHE) |
+| | Horizon: Zero Dawn | [https://www.youtube.com/watch?v=-SNQGyVW_YI](https://www.youtube.com/watch?v=-SNQGyVW_YI) |
 | | Hotline Miami | [https://www.youtube.com/watch?v=oKD-MVfC9Ag](https://www.youtube.com/watch?v=oKD-MVfC9Ag) |
 | | Hotline Miami 2 | [https://youtu.be/dEFcpyy_vq8](https://youtu.be/dEFcpyy_vq8) |
 |<a name="games-i">[I](#getshitdonemusic)</a>| Indiana Jones and the Fate of Atlantis | [https://www.youtube.com/watch?v=LF3i-ozWOso](https://www.youtube.com/watch?v=LF3i-ozWOso) |
