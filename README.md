@@ -49,16 +49,16 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Dark Souls II | [https://www.youtube.com/watch?v=P2htKNGrm3c](https://www.youtube.com/watch?v=P2htKNGrm3c) |
 | | Dark Souls III | [https://www.youtube.com/watch?v=PrYPqtWWB3s](https://www.youtube.com/watch?v=PrYPqtWWB3s) | 
 | | Dear Esther | [https://www.youtube.com/watch?v=rjMCqjDOvRQ](https://www.youtube.com/watch?v=rjMCqjDOvRQ) |
-| | Destiny | [https://youtu.be/EvwDiV2K_0g](https://youtu.be/EvwDiV2K_0g) |
-| | Destiny: The Taken King | [https://youtu.be/YAmivIqIItE](https://youtu.be/YAmivIqIItE) |
+| | Destiny | [https://www.youtube.com/watch?v=EvwDiV2K_0g](https://www.youtube.com/watch?v=EvwDiV2K_0g) |
+| | Destiny: The Taken King | [https://www.youtube.com/watch?v=YAmivIqIItE](https://www.youtube.com/watch?v=YAmivIqIItE) |
 | | Destiny: Rise of Iron | [https://www.youtube.com/watch?v=PfrtX-foWUA](https://www.youtube.com/watch?v=PfrtX-foWUA) |
 | | Deus Ex | [https://www.youtube.com/watch?v=2yDVM77lGlM](https://www.youtube.com/watch?v=2yDVM77lGlM) |
 | | Deus Ex: Human Revolution | [https://www.youtube.com/watch?v=tyG6YMLEWus](https://www.youtube.com/watch?v=tyG6YMLEWus) |
 | | Deus Ex: Mankind Divided | [https://www.youtube.com/watch?v=kkcKnWrCZ7k](https://www.youtube.com/watch?v=kkcKnWrCZ7k) |
 | | Dishonored | [https://www.youtube.com/watch?v=QEMtvVzieVc](https://www.youtube.com/watch?v=QEMtvVzieVc) |
 | | Dishonored 2 | [https://www.youtube.com/watch?v=dcetqgaQ3hA](https://www.youtube.com/watch?v=dcetqgaQ3hA) |
-| | Donkey Kong Country 2 | [https://youtu.be/cbreFmRDN3E](https://youtu.be/cbreFmRDN3E) |
-| | Doom | [https://youtu.be/Jm932Sqwf5E](https://youtu.be/Jm932Sqwf5E) |
+| | Donkey Kong Country 2 | [https://www.youtube.com/watch?v=cbreFmRDN3E](https://www.youtube.com/watch?v=cbreFmRDN3E) |
+| | Doom | [https://www.youtube.com/watch?v=Jm932Sqwf5E](https://www.youtube.com/watch?v=Jm932Sqwf5E) |
 | | Dragon Age Inquisition | [https://www.youtube.com/watch?v=I9FvEhX3E0w](https://www.youtube.com/watch?v=I9FvEhX3E0w) |
 | | Dragon Age Origins | [https://www.youtube.com/watch?v=NQ5S8vs2n0U](https://www.youtube.com/watch?v=NQ5S8vs2n0U) |
 | | Duet | [https://timshiel.bandcamp.com/album/duet-original-soundtrack](https://timshiel.bandcamp.com/album/duet-original-soundtrack) |
@@ -112,7 +112,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Homeworld 2 | [https://www.youtube.com/watch?v=9rFwaf2GaHE](https://www.youtube.com/watch?v=9rFwaf2GaHE) |
 | | Horizon: Zero Dawn | [https://www.youtube.com/watch?v=-SNQGyVW_YI](https://www.youtube.com/watch?v=-SNQGyVW_YI) |
 | | Hotline Miami | [https://www.youtube.com/watch?v=oKD-MVfC9Ag](https://www.youtube.com/watch?v=oKD-MVfC9Ag) |
-| | Hotline Miami 2 | [https://youtu.be/dEFcpyy_vq8](https://youtu.be/dEFcpyy_vq8) |
+| | Hotline Miami 2 | [https://www.youtube.com/watch?v=dEFcpyy_vq8](https://www.youtube.com/watch?v=dEFcpyy_vq8) |
 |<a name="games-i">[I](#getshitdonemusic)</a>| Indiana Jones and the Fate of Atlantis | [https://www.youtube.com/watch?v=LF3i-ozWOso](https://www.youtube.com/watch?v=LF3i-ozWOso) |
 | | Indiana Jones and the Emperor's Tomb | [https://www.youtube.com/watch?v=rkiSthoh4zo](https://www.youtube.com/watch?v=rkiSthoh4zo) |
 |<a name="games-j">[J](#getshitdonemusic)</a>| Journey | [https://www.youtube.com/watch?v=M3hFN8UrBPw](https://www.youtube.com/watch?v=M3hFN8UrBPw) |
