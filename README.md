@@ -76,13 +76,13 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Faster Than Light | [https://www.youtube.com/watch?v=ygH9VcV7IBg](https://www.youtube.com/watch?v=ygH9VcV7IBg) |
 | | Fez | [https://www.youtube.com/watch?v=hXfos-mAMMA](https://www.youtube.com/watch?v=hXfos-mAMMA) |
 | | Final Fantasy 10 | [https://www.youtube.com/watch?v=Fpf-dD4atHw](https://www.youtube.com/watch?v=Fpf-dD4atHw) |
-| | Final Fantasy IX | [https://www.youtube.com/watch?v=AePhn9HPxag](https://www.youtube.com/watch?v=AePhn9HPxag) |
+| | Final Fantasy IX | [https://www.youtube.com/watch?v=n76DBcgyZ3g](https://www.youtube.com/watch?v=n76DBcgyZ3g) |
 | | Final Fantasy Tactics | [https://www.youtube.com/watch?v=Bs7jIyQR-Gk](https://www.youtube.com/watch?v=Bs7jIyQR-Gk) |
 | | Final Fantasy VI Balance and Ruin | [https://www.youtube.com/watch?v=RgB-GyWJeXM](https://www.youtube.com/watch?v=RgB-GyWJeXM) |
 | | Final Fantasy VI | [https://www.youtube.com/watch?v=sLpjPht5mvg](https://www.youtube.com/watch?v=sLpjPht5mvg) |
 | | Final Fantasy VII Remastered | [https://www.youtube.com/playlist?list=PL02A7E62FBA1D3981](https://www.youtube.com/playlist?list=PL02A7E62FBA1D3981) |
 | | Final Fantasy VII | [https://www.youtube.com/watch?v=bMtlLpYcCAQ](https://www.youtube.com/watch?v=bMtlLpYcCAQ) |
-| | Final Fantasy VIII | [https://www.youtube.com/watch?v=JJnsw8qMKLk](https://www.youtube.com/watch?v=JJnsw8qMKLk) |
+| | Final Fantasy VIII | [https://www.youtube.com/watch?v=X6kAwpgW29M](https://www.youtube.com/watch?v=X6kAwpgW29M) |
 | | Final Fantasy X | [https://www.youtube.com/watch?v=Fpf-dD4atHw](https://www.youtube.com/watch?v=Fpf-dD4atHw) |
 | | Final Fantasy XII | [https://www.youtube.com/watch?v=Tgd9ajyAiIs](https://www.youtube.com/watch?v=Tgd9ajyAiIs) |
 | | Final Fantasy XIII-2 | [https://www.youtube.com/watch?v=c7xT6rBvzOo](https://www.youtube.com/watch?v=c7xT6rBvzOo) |
@@ -117,7 +117,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Indiana Jones and the Emperor's Tomb | [https://www.youtube.com/watch?v=rkiSthoh4zo](https://www.youtube.com/watch?v=rkiSthoh4zo) |
 |<a name="games-j">[J](#getshitdonemusic)</a>| Journey | [https://www.youtube.com/watch?v=M3hFN8UrBPw](https://www.youtube.com/watch?v=M3hFN8UrBPw) |
 |<a name="games-l">[L](#getshitdonemusic)</a>| LA Noire Soundtrack | [https://www.youtube.com/watch?v=7bW75OwVXZI](https://www.youtube.com/watch?v=7bW75OwVXZI) |
-| | Last of Us | [https://www.youtube.com/watch?v=2q-cY8-JZUM](https://www.youtube.com/watch?v=2q-cY8-JZUM) |
+| | Last of Us | [https://www.youtube.com/watch?v=DvNF51-TSAQ](https://www.youtube.com/watch?v=DvNF51-TSAQ) |
 | | Layers of Fear | [https://www.youtube.com/watch?v=_xfZ2N0br2A](https://www.youtube.com/watch?v=_xfZ2N0br2A) |
 | | Life is Strange | [https://www.youtube.com/watch?v=0gzU8dGFG9s](https://www.youtube.com/watch?v=0gzU8dGFG9s) |
 | | London Philharmonic Orchestra - Greatest Video Game Music | [https://www.youtube.com/watch?v=ZyvwODEjmXw](https://www.youtube.com/watch?v=ZyvwODEjmXw) |
@@ -135,14 +135,13 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Metal Gear Solid 3 | [http://www.youtube.com/watch?v=yZ_KNLRCl3U](http://www.youtube.com/watch?v=yZ_KNLRCl3U) |
 | | Metal Gear Solid 4 | [http://www.youtube.com/watch?v=yzgpY9Fx2xE](http://www.youtube.com/watch?v=yzgpY9Fx2xE) |
 | | Metal Gear Solid 5 | [https://www.youtube.com/watch?v=NsgLqgk2KYc](https://www.youtube.com/watch?v=NsgLqgk2KYc) |
-| | Metal Gear Solid Revenge | [https://www.youtube.com/watch?v=19vQPM5u904](https://www.youtube.com/watch?v=19vQPM5u904) |
+| | Metal Gear Solid Revengeance | [https://www.youtube.com/watch?v=_vfkzMAWWKE&list=PL1tFM4hAoC6VGoSUQBWXdykwzjT96cYeb](https://www.youtube.com/watch?v=_vfkzMAWWKE&list=PL1tFM4hAoC6VGoSUQBWXdykwzjT96cYeb) |
 | | Metal Gear Solid V | [https://www.youtube.com/watch?v=NsgLqgk2KYc](https://www.youtube.com/watch?v=NsgLqgk2KYc) |
 | | Metal Gear Solid V: Ground Zeroes | [https://www.youtube.com/watch?v=1guQjLQ4rHg](https://www.youtube.com/watch?v=1guQjLQ4rHg) |
 | | Metal Gear Solid: Peace Walker | [https://www.youtube.com/watch?v=2nPJqczHYZo](https://www.youtube.com/watch?v=2nPJqczHYZo) |
 | | Minecraft - Volume Beta | [http://c418.bandcamp.com/album/minecraft-volume-beta](http://c418.bandcamp.com/album/minecraft-volume-beta) |
 | | Minecraft | [https://www.youtube.com/watch?v=Dg0IjOzopYU](https://www.youtube.com/watch?v=Dg0IjOzopYU) |
 | | Mirrors Edge | [https://www.youtube.com/watch?v=Y05wiQQbFLU](https://www.youtube.com/watch?v=Y05wiQQbFLU) |
-| | Mortal Kombat theme | [https://www.youtube.com/watch?v=JikPgxdmpJY](https://www.youtube.com/watch?v=JikPgxdmpJY) |
 | | Myst | [https://www.youtube.com/watch?v=QCARJeNY03A](https://www.youtube.com/watch?v=QCARJeNY03A) |
 |<a name="games-n">[N](#getshitdonemusic)</a>| Need 4 Speed Most Wanted | [https://www.youtube.com/watch?v=zK5Dw7j1QZM](https://www.youtube.com/watch?v=zK5Dw7j1QZM) |
 | | No Man's Sky | [https://www.youtube.com/watch?v=EZMJPNekzds](https://www.youtube.com/watch?v=EZMJPNekzds) |
@@ -163,13 +162,13 @@ A curated collection of music and soundtracks to help you get shit done.
 |<a name="games-s">[S](#getshitdonemusic)</a>| Samorost 2 | [https://www.youtube.com/watch?v=JHtZM2370Eg](https://www.youtube.com/watch?v=JHtZM2370Eg) |
 | | Samorost 3 | [https://www.youtube.com/watch?v=QXmyZeickj8](https://www.youtube.com/watch?v=QXmyZeickj8) |
 | |Several Game OST pieces, 2,5h | [https://www.youtube.com/watch?v=sfXqKHaZwLs](https://www.youtube.com/watch?v=sfXqKHaZwLs) |
-| | Silent Hill | [https://www.youtube.com/watch?v=0GA3rsU5bNk](https://www.youtube.com/watch?v=0GA3rsU5bNk) |
+| | Silent Hill | [https://www.youtube.com/watch?v=N7V1YXws_-Y](https://www.youtube.com/watch?v=N7V1YXws_-Y) |
 | | Sim City 3000 | [https://www.youtube.com/watch?v=qkXOxLpdMds](https://www.youtube.com/watch?v=qkXOxLpdMds) |
 | | Sim City 4 | [https://www.youtube.com/watch?v=PSv37HwwojU](https://www.youtube.com/watch?v=PSv37HwwojU) |
 | | Skyrim | [https://www.youtube.com/watch?v=TWv3DfoiigM](https://www.youtube.com/watch?v=TWv3DfoiigM) |
 | | SOMA | [https://www.youtube.com/watch?v=vTC5GG8zRcs](https://www.youtube.com/watch?v=vTC5GG8zRcs) |
 | | Star Citizen | [https://www.youtube.com/playlist?list=PLLcod52t0kpdZJxdds7VF3N...](https://www.youtube.com/playlist?list=PLLcod52t0kpdZJxdds7VF3NX-XzM3tmb8) |
-| | Star Control 2 | [https://www.youtube.com/watch?v=QWOyXmLOA...](https://www.youtube.com/watch?v=QWOyXmLOA...) |
+| | Star Control 2 | [https://www.youtube.com/watch?v=QWOyXmLOA_Q](https://www.youtube.com/watch?v=QWOyXmLOA_Q) |
 | | State of Decay | [https://www.youtube.com/watch?v=WpHgsuJsBeE](https://www.youtube.com/watch?v=WpHgsuJsBeE) |
 | | Subnautica | [https://www.youtube.com/watch?v=xSMc4yh7xtA](https://www.youtube.com/watch?v=xSMc4yh7xtA) |
 | | Super Meat Boy | [https://youtu.be/GZhoE9S5YbQ](https://youtu.be/GZhoE9S5YbQ) |
@@ -219,22 +218,21 @@ A curated collection of music and soundtracks to help you get shit done.
 
 | Movie | Link to OST |
 | --- | --- |
-| Akira | [https://www.youtube.com/watch?v=NyC5RKzQm9](https://www.youtube.com/watch?v=NyC5RKzQm9) |
+| Akira | [https://www.youtube.com/watch?v=NyC5RKzQm9I](https://www.youtube.com/watch?v=NyC5RKzQm9I) |
 | Battlestar Galactica | [https://www.youtube.com/playlist?list=PL0A23BB01852F83A7](https://www.youtube.com/playlist?list=PL0A23BB01852F83A7) |
 | Broadchurch | [https://www.youtube.com/playlist?list=PLdDnKB6XYCbgfwX1EzYefejjynmS-tyIK](https://www.youtube.com/playlist?list=PLdDnKB6XYCbgfwX1EzYefejjynmS-tyIK) |
 | Captain America. The Winter Soldier | [https://www.youtube.com/playlist?list=PLBqwoNRuBDz-UP4LWoSh3bofnpjePUlKV](https://www.youtube.com/playlist?list=PLBqwoNRuBDz-UP4LWoSh3bofnpjePUlKV) |
 | Cowboy Bebop | [https://www.youtube.com/watch?v=N82fP5hKZPY](https://www.youtube.com/watch?v=N82fP5hKZPY) |
-| Ghost in the Shell | [https://www.youtube.com/watch?v=ZtzMskOJgHA](https://www.youtube.com/watch?v=ZtzMskOJgHA) |
-| How to train your dragon | [https://www.youtube.com/watch?v=SagTkN19veU](https://www.youtube.com/watch?v=SagTkN19veU) |
+| Ghost in the Shell | [https://www.youtube.com/watch?v=GvaC6cIrntI](https://www.youtube.com/watch?v=GvaC6cIrntI) |
 | Inception | [https://www.youtube.com/playlist?list=PL493TQZToFwGtwMh1_9Y_nuralywpdQ45](https://www.youtube.com/playlist?list=PL493TQZToFwGtwMh1_9Y_nuralywpdQ45) |
 | Indie Game: The Movie. | [https://www.youtube.com/watch?v=Y63fr6wciDY](https://www.youtube.com/watch?v=Y63fr6wciDY) |
-| Interstellar | [https://www.youtube.com/watch?v=-1U9LNsfMTI](https://www.youtube.com/watch?v=-1U9LNsfMTI) |
+| Interstellar | [https://www.youtube.com/watch?v=uwkLZg6WDek&list=PLco_u-O9FeQ_cV5gc3VdUHoQYBI73MYkU](https://www.youtube.com/watch?v=uwkLZg6WDek&list=PLco_u-O9FeQ_cV5gc3VdUHoQYBI73MYkU) |
 | Limitless | [https://www.youtube.com/playlist?list=PL8B437430F86D7D37](https://www.youtube.com/playlist?list=PL8B437430F86D7D37) |
 | Naruto Shippuden 3 | [https://www.youtube.com/watch?v=fniTt4ylQO8](https://www.youtube.com/watch?v=fniTt4ylQO8) |
 | Oblivion | [https://www.youtube.com/watch?v=sYD_U1CChew](https://www.youtube.com/watch?v=sYD_U1CChew) |
 | Studio Ghibli - 25 Years Concert | [https://www.youtube.com/watch?v=Gpr_ISfWFsk](https://www.youtube.com/watch?v=Gpr_ISfWFsk) |
 | The Social Network | [https://www.youtube.com/watch?v=yydZbVoCbn0](https://www.youtube.com/watch?v=yydZbVoCbn0) |
-| Tron Legacy | [https://www.youtube.com/watch?v=sYJBcr1LDg4](https://www.youtube.com/watch?v=sYJBcr1LDg4) |
+| Tron Legacy | [https://www.youtube.com/watch?v=OIM8RxaK5rE](https://www.youtube.com/watch?v=OIM8RxaK5rE) |
 
 [Back to Top](#getshitdonemusic)
 
