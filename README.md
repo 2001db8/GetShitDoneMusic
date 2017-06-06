@@ -127,6 +127,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Mass Effect | [https://www.youtube.com/watch?v=uhesDs6FWpo](https://www.youtube.com/watch?v=uhesDs6FWpo) |
 | | Mass Effect 2 | [https://www.youtube.com/watch?v=hBaN_Ea5i74](https://www.youtube.com/watch?v=hBaN_Ea5i74) |
 | | Mass Effect 3 | [https://www.youtube.com/watch?v=HuTcsGHfc1g](https://www.youtube.com/watch?v=HuTcsGHfc1g) |
+| | Mass Effect: Andromeda | [https://www.youtube.com/watch?v=CCNRPn5lEdM](https://www.youtube.com/watch?v=CCNRPn5lEdM) |
 | | Mass Effect Mix | [https://youtu.be/Mm5AMucpAkc](https://youtu.be/Mm5AMucpAkc) |
 | | Mech Warrior 2 | [https://www.youtube.com/watch?v=HTrrv-Jr240](https://www.youtube.com/watch?v=HTrrv-Jr240) |
 | | Medal of Honor Frontline | [https://www.youtube.com/watch?v=Fv7QcsuvfH0](https://www.youtube.com/watch?v=Fv7QcsuvfH0) |
