@@ -145,6 +145,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Mirrors Edge | [https://www.youtube.com/watch?v=Y05wiQQbFLU](https://www.youtube.com/watch?v=Y05wiQQbFLU) |
 | | Myst | [https://www.youtube.com/watch?v=QCARJeNY03A](https://www.youtube.com/watch?v=QCARJeNY03A) |
 |<a name="games-n">[N](#getshitdonemusic)</a>| Need 4 Speed Most Wanted | [https://www.youtube.com/watch?v=zK5Dw7j1QZM](https://www.youtube.com/watch?v=zK5Dw7j1QZM) |
+| | NieR: Automata | [https://www.youtube.com/watch?v=GrukAMUoNEI](https://www.youtube.com/watch?v=GrukAMUoNEI) |
 | | No Man's Sky | [https://www.youtube.com/watch?v=EZMJPNekzds](https://www.youtube.com/watch?v=EZMJPNekzds) |
 |<a name="games-o">[O](#getshitdonemusic)</a>| Oni | [https://www.youtube.com/watch?v=GbGvEDuErUo](https://www.youtube.com/watch?v=GbGvEDuErUo) |
 | | Ori and the Blind Forest | [https://www.youtube.com/watch?v=MkzeOmkOUHM](https://www.youtube.com/watch?v=MkzeOmkOUHM) |
