@@ -20,7 +20,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Assassin's Creed 1 | [https://www.youtube.com/watch?v=OKnTUsQ6sb0](https://www.youtube.com/watch?v=OKnTUsQ6sb0) |
 | | Assassin's Creed 2 | [https://www.youtube.com/watch?v=VSFlCOhU6-o](https://www.youtube.com/watch?v=VSFlCOhU6-o) |
 | | Assassin's Creed 3 | [https://www.youtube.com/watch?v=3QByfthwPYU](https://www.youtube.com/watch?v=3QByfthwPYU) |
-| | Assassin's Creed 4: Black Flag | [https://www.youtube.com/watch?v=YnF0xtLbk2Q](https://www.youtube.com/watch?v=YnF0xtLbk2Q) |
+| | Assassin's Creed 4: Black Flag | [https://www.youtube.com/watch?v=JYVMnLUZu9Y](https://www.youtube.com/watch?v=JYVMnLUZu9Y) |
 | | Assassin's Creed: Brotherhood | [https://www.youtube.com/watch?v=QOxU5bc1zRA](https://www.youtube.com/watch?v=QOxU5bc1zRA) |
 | | Assassin's Creed: Revelations | [https://www.youtube.com/watch?v=FXs-vSF5Scg](https://www.youtube.com/watch?v=FXs-vSF5Scg) |
 | | Assassin's Creed: Rogue | [https://www.youtube.com/watch?v=gp5Q5kI7oB4](https://www.youtube.com/watch?v=gp5Q5kI7oB4) |
