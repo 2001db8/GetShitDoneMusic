@@ -118,6 +118,7 @@ A curated collection of music and soundtracks to help you get shit done.
 |<a name="games-i">[I](#getshitdonemusic)</a>| Indiana Jones and the Fate of Atlantis | [https://www.youtube.com/watch?v=LF3i-ozWOso](https://www.youtube.com/watch?v=LF3i-ozWOso) |
 | | Indiana Jones and the Emperor's Tomb | [https://www.youtube.com/watch?v=rkiSthoh4zo](https://www.youtube.com/watch?v=rkiSthoh4zo) |
 |<a name="games-j">[J](#getshitdonemusic)</a>| Journey | [https://www.youtube.com/watch?v=M3hFN8UrBPw](https://www.youtube.com/watch?v=M3hFN8UrBPw) |
+| | Just Cause 3 | [https://www.youtube.com/watch?v=DIPTPXDWwy0](https://www.youtube.com/watch?v=DIPTPXDWwy0)
 |<a name="games-l">[L](#getshitdonemusic)</a>| LA Noire Soundtrack | [https://www.youtube.com/watch?v=7bW75OwVXZI](https://www.youtube.com/watch?v=7bW75OwVXZI) |
 | | Last of Us | [https://www.youtube.com/watch?v=DvNF51-TSAQ](https://www.youtube.com/watch?v=DvNF51-TSAQ) |
 | | Layers of Fear | [https://www.youtube.com/watch?v=_xfZ2N0br2A](https://www.youtube.com/watch?v=_xfZ2N0br2A) |
