@@ -34,6 +34,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Batman: Arkham Origins | [https://www.youtube.com/watch?v=BQFkV7zcF9A](https://www.youtube.com/watch?v=BQFkV7zcF9A) |
 | | Battlefield 1 | [https://www.youtube.com/watch?v=sya1CzmsvLc](https://www.youtube.com/watch?v=sya1CzmsvLc) |
 | | Betrayal at Krondor | [https://www.youtube.com/watch?v=0U0Lh8-apvc](https://www.youtube.com/watch?v=0U0Lh8-apvc) |
+| | Beyond Skyrim: Bruma | [https://www.youtube.com/watch?v=bdL1P0p0zco](https://www.youtube.com/watch?v=bdL1P0p0zco) |
 | | Beyond: Two Souls | [https://www.youtube.com/watch?v=kXFHZ7cOV08](https://www.youtube.com/watch?v=kXFHZ7cOV08) |
 | | Bloodborne | [https://www.youtube.com/watch?v=Bki0PjoV14M](https://www.youtube.com/watch?v=Bki0PjoV14M) |
 | | Braid | [https://www.youtube.com/watch?v=tkRXZiZNuuw](https://www.youtube.com/watch?v=tkRXZiZNuuw) |
