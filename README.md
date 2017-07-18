@@ -50,6 +50,9 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Dark Souls | [https://www.youtube.com/watch?v=ffLbdhP0auc](https://www.youtube.com/watch?v=ffLbdhP0auc) |
 | | Dark Souls II | [https://www.youtube.com/watch?v=P2htKNGrm3c](https://www.youtube.com/watch?v=P2htKNGrm3c) |
 | | Dark Souls III | [https://www.youtube.com/watch?v=PrYPqtWWB3s](https://www.youtube.com/watch?v=PrYPqtWWB3s) | 
+| | Dead Space 1 | [https://www.youtube.com/watch?v=XVOm9uY03fs](https://www.youtube.com/watch?v=XVOm9uY03fs) |
+| | Dead Space 2 | [https://www.youtube.com/watch?v=4k485wbOBR4](https://www.youtube.com/watch?v=4k485wbOBR4) |
+| | Dead Space 3 | [https://www.youtube.com/watch?v=ZlnfO8liJvY](https://www.youtube.com/watch?v=ZlnfO8liJvY) |
 | | Dear Esther | [https://www.youtube.com/watch?v=rjMCqjDOvRQ](https://www.youtube.com/watch?v=rjMCqjDOvRQ) |
 | | Destiny | [https://www.youtube.com/watch?v=EvwDiV2K_0g](https://www.youtube.com/watch?v=EvwDiV2K_0g) |
 | | Destiny: The Taken King | [https://www.youtube.com/watch?v=YAmivIqIItE](https://www.youtube.com/watch?v=YAmivIqIItE) |
