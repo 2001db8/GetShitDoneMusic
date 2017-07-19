@@ -201,7 +201,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Uncharted 4 | [https://www.youtube.com/watch?v=cMbJxZWAzuA](https://www.youtube.com/watch?v=cMbJxZWAzuA) |
 | | Under a Killing Moon | [https://www.youtube.com/watch?v=88RryK0hhok](https://www.youtube.com/watch?v=88RryK0hhok) |
 | | Undertale | [https://www.youtube.com/watch?v=SxNcKXjfaQo](https://www.youtube.com/watch?v=SxNcKXjfaQo) |
-|<a name="games-v">[V](#getshitdonemusic)</a>| Valiant Hearts - The Grat War | [https://www.youtube.com/watch?v=l3rClyAOxwA](https://www.youtube.com/watch?v=l3rClyAOxwA) |
+|<a name="games-v">[V](#getshitdonemusic)</a>| Valiant Hearts - The Great War | [https://www.youtube.com/watch?v=l3rClyAOxwA](https://www.youtube.com/watch?v=l3rClyAOxwA) |
 |<a name="games-w">[W](#getshitdonemusic)</a>| Warcraft 3 | [https://www.youtube.com/watch?v=xPoSAo7YFsw](https://www.youtube.com/watch?v=xPoSAo7YFsw) |
 | | Watch Dogs | [https://www.youtube.com/watch?v=BJbMaRf51c4](https://www.youtube.com/watch?v=BJbMaRf51c4) |
 | | Wild Arms | [https://www.youtube.com/playlist?list=PL5EF58845135C439F](https://www.youtube.com/playlist?list=PL5EF58845135C439F) |
