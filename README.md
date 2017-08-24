@@ -199,6 +199,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Uncharted 2 | [https://www.youtube.com/watch?v=melSYCv-ivI](https://www.youtube.com/watch?v=melSYCv-ivI) |
 | | Uncharted 3 | [https://www.youtube.com/watch?v=OO7kW_-u2y0](https://www.youtube.com/watch?v=OO7kW_-u2y0) |
 | | Uncharted 4 | [https://www.youtube.com/watch?v=cMbJxZWAzuA](https://www.youtube.com/watch?v=cMbJxZWAzuA) |
+| | Uncharted The Lost Legacy | [https://www.youtube.com/watch?v=vqfB8NP6AHs](https://www.youtube.com/watch?v=vqfB8NP6AHs) |
 | | Under a Killing Moon | [https://www.youtube.com/watch?v=88RryK0hhok](https://www.youtube.com/watch?v=88RryK0hhok) |
 | | Undertale | [https://www.youtube.com/watch?v=SxNcKXjfaQo](https://www.youtube.com/watch?v=SxNcKXjfaQo) |
 |<a name="games-v">[V](#getshitdonemusic)</a>| Valiant Hearts - The Great War | [https://www.youtube.com/watch?v=l3rClyAOxwA](https://www.youtube.com/watch?v=l3rClyAOxwA) |
