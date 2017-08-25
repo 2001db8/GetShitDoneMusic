@@ -231,6 +231,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | --- | --- |
 | Akira | [https://www.youtube.com/watch?v=NyC5RKzQm9I](https://www.youtube.com/watch?v=NyC5RKzQm9I) |
 | Battlestar Galactica | [https://www.youtube.com/playlist?list=PL0A23BB01852F83A7](https://www.youtube.com/playlist?list=PL0A23BB01852F83A7) |
+| Blade Runner (Remastered) | [https://www.youtube.com/watch?v=k3fz6CC45ok](https://www.youtube.com/watch?v=k3fz6CC45ok) |
 | Broadchurch | [https://www.youtube.com/playlist?list=PLdDnKB6XYCbgfwX1EzYefejjynmS-tyIK](https://www.youtube.com/playlist?list=PLdDnKB6XYCbgfwX1EzYefejjynmS-tyIK) |
 | Captain America. The Winter Soldier | [https://www.youtube.com/playlist?list=PLBqwoNRuBDz-UP4LWoSh3bofnpjePUlKV](https://www.youtube.com/playlist?list=PLBqwoNRuBDz-UP4LWoSh3bofnpjePUlKV) |
 | Cowboy Bebop | [https://www.youtube.com/watch?v=N82fP5hKZPY](https://www.youtube.com/watch?v=N82fP5hKZPY) |
