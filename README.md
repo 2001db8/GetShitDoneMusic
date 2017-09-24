@@ -165,6 +165,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Rayman Origins | [https://www.youtube.com/watch?v=OTYhwDjIheA](https://www.youtube.com/watch?v=OTYhwDjIheA) |
 | | ReCore | [https://www.youtube.com/watch?v=GCCRwxIrtok](https://www.youtube.com/watch?v=GCCRwxIrtok) |
 | | Red Dead Redemption | [https://www.youtube.com/watch?v=S6tcs0_NAUI](https://www.youtube.com/watch?v=S6tcs0_NAUI) |
+| | Return to Castle Wolfenstein | [https://www.youtube.com/watch?v=tU9dtiBpiXM](https://www.youtube.com/watch?v=tU9dtiBpiXM) |
 | | Return to Zork (Adlib) | [https://www.youtube.com/watch?v=k-iKphQHxvY](https://www.youtube.com/watch?v=k-iKphQHxvY) |
 | | Return to Zork (CD Audio) | [https://www.youtube.com/watch?v=ouTRmfrBjOw](https://www.youtube.com/watch?v=ouTRmfrBjOw) |
 | | Rise of the Tomb Raider | [https://www.youtube.com/watch?v=YB6la1r7qRI](https://www.youtube.com/watch?v=YB6la1r7qRI) |
@@ -219,6 +220,8 @@ A curated collection of music and soundtracks to help you get shit done.
 | | World of Warcraft: Wrath of the Lich King | [https://www.youtube.com/watch?v=EuKGNGZjUJI](https://www.youtube.com/watch?v=EuKGNGZjUJI) |
 | | World of Warcraft: Legion | [https://youtu.be/6Fq18afbWoI](https://youtu.be/6Fq18afbWoI) |
 | | World of Warcraft | [https://www.youtube.com/watch?v=gQFOLOur1jM](https://www.youtube.com/watch?v=gQFOLOur1jM) |
+| | Wolfenstein: The New Order | [https://www.youtube.com/watch?v=agBdkmz4nGA](https://www.youtube.com/watch?v=agBdkmz4nGA) |
+| | Wolfenstein: The Old Blood | [https://www.youtube.com/watch?v=KnXXeniMscc](https://www.youtube.com/watch?v=KnXXeniMscc) |
 |<a name="games-x">[X](#getshitdonemusic)</a>| XCOM 2 | [https://www.youtube.com/watch?v=hErQwCMI68A](https://www.youtube.com/watch?v=hErQwCMI68A) |
 | | XCOM: Enemy Unknown | [https://www.youtube.com/watch?v=_z82dcrSqns](https://www.youtube.com/watch?v=_z82dcrSqns) |
 | | XCOM: Enemy Within | [https://www.youtube.com/watch?v=Wh8CwwhM564](https://www.youtube.com/watch?v=Wh8CwwhM564) |
