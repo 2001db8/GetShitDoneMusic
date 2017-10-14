@@ -158,7 +158,8 @@ A curated collection of music and soundtracks to help you get shit done.
 | | No Man's Sky | [https://www.youtube.com/watch?v=EZMJPNekzds](https://www.youtube.com/watch?v=EZMJPNekzds) |
 |<a name="games-o">[O](#getshitdonemusic)</a>| Oni | [https://www.youtube.com/watch?v=GbGvEDuErUo](https://www.youtube.com/watch?v=GbGvEDuErUo) |
 | | Ori and the Blind Forest | [https://www.youtube.com/watch?v=MkzeOmkOUHM](https://www.youtube.com/watch?v=MkzeOmkOUHM) |
-|<a name="games-p">[P](#getshitdonemusic)</a>| Portal | [https://www.youtube.com/watch?v=Kgny67NTtw0](https://www.youtube.com/watch?v=Kgny67NTtw0) |
+|<a name="games-p">[P](#getshitdonemusic)</a>| Path of Exile | [https://www.youtube.com/watch?v=8yABgRlfDWY](https://www.youtube.com/watch?v=8yABgRlfDWY) |
+| Portal | [https://www.youtube.com/watch?v=Kgny67NTtw0](https://www.youtube.com/watch?v=Kgny67NTtw0) |
 | | Portal 2 | [https://www.youtube.com/watch?v=y_gknRMZ-OU](https://www.youtube.com/watch?v=y_gknRMZ-OU) |
 |<a name="games-q">[Q](#getshitdonemusic)</a>| Quantum Break | [https://www.youtube.com/watch?v=qNaGc7fsifg](https://www.youtube.com/watch?v=qNaGc7fsifg) |
 |<a name="games-r">[R](#getshitdonemusic)</a>| Rainbow Six: Siege | [https://www.youtube.com/watch?v=eTXTUuYyIKY](https://www.youtube.com/watch?v=eTXTUuYyIKY) |
