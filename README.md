@@ -58,7 +58,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Destiny | [https://www.youtube.com/watch?v=EvwDiV2K_0g](https://www.youtube.com/watch?v=EvwDiV2K_0g) |
 | | Destiny: The Taken King | [https://www.youtube.com/watch?v=YAmivIqIItE](https://www.youtube.com/watch?v=YAmivIqIItE) |
 | | Destiny: Rise of Iron | [https://www.youtube.com/watch?v=PfrtX-foWUA](https://www.youtube.com/watch?v=PfrtX-foWUA) |
-| | Destiny 2 | [https://www.youtube.com/watch?v=nToWeo8y3hg](https://www.youtube.com/watch?v=nToWeo8y3hg) |
+| | Destiny 2 | [https://www.youtube.com/watch?v=JexwNNr1OhI](https://www.youtube.com/watch?v=JexwNNr1OhI) |
 | | Deus Ex | [https://www.youtube.com/watch?v=2yDVM77lGlM](https://www.youtube.com/watch?v=2yDVM77lGlM) |
 | | Deus Ex: Human Revolution | [https://www.youtube.com/watch?v=tyG6YMLEWus](https://www.youtube.com/watch?v=tyG6YMLEWus) |
 | | Deus Ex: Mankind Divided | [https://www.youtube.com/watch?v=kkcKnWrCZ7k](https://www.youtube.com/watch?v=kkcKnWrCZ7k) |
