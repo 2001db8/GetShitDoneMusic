@@ -27,6 +27,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Assassin's Creed: Rogue | [https://www.youtube.com/watch?v=gp5Q5kI7oB4](https://www.youtube.com/watch?v=gp5Q5kI7oB4) |
 | | Assassin's Creed: Unity | [https://www.youtube.com/watch?v=_9UswcA4E8I](https://www.youtube.com/watch?v=_9UswcA4E8I) |
 | | Assassin's Creed: Syndicate | [https://www.youtube.com/watch?v=spjAcBMeRpY](https://www.youtube.com/watch?v=spjAcBMeRpY) |
+| | Assassin's Creed: Origin | [https://www.youtube.com/watch?v=-zbUHDJHc4E](https://www.youtube.com/watch?v=-zbUHDJHc4E) |
 | | Astroneer | [https://www.youtube.com/watch?v=2XmrDLfhtEE](https://www.youtube.com/watch?v=2XmrDLfhtEE) |
 |<a name="games-b">[B](#getshitdonemusic)</a>| Banjo Kazooie | [https://www.youtube.com/watch?v=aS40K53JQIg](https://www.youtube.com/watch?v=aS40K53JQIg) |
 | | Bastion | [https://www.youtube.com/watch?v=oLA0vB9LCTM](https://www.youtube.com/watch?v=oLA0vB9LCTM) |
