@@ -167,7 +167,7 @@ A curated collection of music and soundtracks to help you get shit done.
 |<a name="games-r">[R](#getshitdonemusic)</a>| Rainbow Six: Siege | [https://www.youtube.com/watch?v=eTXTUuYyIKY](https://www.youtube.com/watch?v=eTXTUuYyIKY) |
 | | Rayman Origins | [https://www.youtube.com/watch?v=OTYhwDjIheA](https://www.youtube.com/watch?v=OTYhwDjIheA) |
 | | ReCore | [https://www.youtube.com/watch?v=GCCRwxIrtok](https://www.youtube.com/watch?v=GCCRwxIrtok) |
-| | Red Dead Redemption | [https://www.youtube.com/watch?v=S6tcs0_NAUI](https://www.youtube.com/watch?v=S6tcs0_NAUI) |
+| | Red Dead Redemption | [https://www.youtube.com/watch?v=5P3ElYrPhsU](https://www.youtube.com/watch?v=5P3ElYrPhsU) |
 | | Return to Castle Wolfenstein | [https://www.youtube.com/watch?v=tU9dtiBpiXM](https://www.youtube.com/watch?v=tU9dtiBpiXM) |
 | | Return to Zork (Adlib) | [https://www.youtube.com/watch?v=k-iKphQHxvY](https://www.youtube.com/watch?v=k-iKphQHxvY) |
 | | Return to Zork (CD Audio) | [https://www.youtube.com/watch?v=ouTRmfrBjOw](https://www.youtube.com/watch?v=ouTRmfrBjOw) |
