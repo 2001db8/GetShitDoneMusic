@@ -83,6 +83,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Far Cry 3: Blood Dragon | [https://www.youtube.com/watch?v=AnDutViIj-8](https://www.youtube.com/watch?v=AnDutViIj-8) |
 | | Far Cry 4 | [https://www.youtube.com/watch?v=qEM5xHEibbo](https://www.youtube.com/watch?v=qEM5xHEibbo) |
 | | Far Cry: Primal | [https://www.youtube.com/watch?v=FOX3cIC2qXo](https://www.youtube.com/watch?v=FOX3cIC2qXo) |
+| | Far Cry 5 | [https://www.youtube.com/watch?v=xBcTm3xeomM](https://www.youtube.com/watch?v=xBcTm3xeomM) |
 | | Faster Than Light | [https://www.youtube.com/watch?v=ygH9VcV7IBg](https://www.youtube.com/watch?v=ygH9VcV7IBg) |
 | | Fez | [https://www.youtube.com/watch?v=hXfos-mAMMA](https://www.youtube.com/watch?v=hXfos-mAMMA) |
 | | Final Fantasy 10 | [https://www.youtube.com/watch?v=Fpf-dD4atHw](https://www.youtube.com/watch?v=Fpf-dD4atHw) |
