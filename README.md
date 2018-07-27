@@ -162,6 +162,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | No Man's Sky | [https://www.youtube.com/watch?v=EZMJPNekzds](https://www.youtube.com/watch?v=EZMJPNekzds) |
 |<a name="games-o">[O](#getshitdonemusic)</a>| Oni | [https://www.youtube.com/watch?v=GbGvEDuErUo](https://www.youtube.com/watch?v=GbGvEDuErUo) |
 | | Ori and the Blind Forest | [https://www.youtube.com/watch?v=MkzeOmkOUHM](https://www.youtube.com/watch?v=MkzeOmkOUHM) |
+| | Octopath Traveler | [https://www.youtube.com/watch?v=WdxbRJx4JFk](https://www.youtube.com/watch?v=WdxbRJx4JFk) |
 |<a name="games-p">[P](#getshitdonemusic)</a>| Path of Exile | [https://www.youtube.com/watch?v=8yABgRlfDWY](https://www.youtube.com/watch?v=8yABgRlfDWY) |
 | | Portal | [https://www.youtube.com/watch?v=Kgny67NTtw0](https://www.youtube.com/watch?v=Kgny67NTtw0) |
 | | Portal 2 | [https://www.youtube.com/watch?v=y_gknRMZ-OU](https://www.youtube.com/watch?v=y_gknRMZ-OU) |
