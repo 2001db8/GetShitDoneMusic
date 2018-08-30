@@ -99,6 +99,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Final Fantasy XIII-2 | [https://www.youtube.com/watch?v=c7xT6rBvzOo](https://www.youtube.com/watch?v=c7xT6rBvzOo) |
 | | Final Fantasy XIII-3 | [https://www.youtube.com/watch?v=ZebmtGCJDfo](https://www.youtube.com/watch?v=ZebmtGCJDfo) |
 | | Final Fantasy XIII | [https://www.youtube.com/watch?v=Flk42tkoV4w](https://www.youtube.com/watch?v=Flk42tkoV4w) |
+| | Final Fantasy XV | [https://www.youtube.com/watch?v=fNjoVHmJqzE](https://www.youtube.com/watch?v=fNjoVHmJqzE) |
 | | Final Fantasy Full Series Orchestration | [https://www.youtube.com/watch?v=LiAWP_mcIzY](https://www.youtube.com/watch?v=LiAWP_mcIzY) |
 | | Firewatch | [https://www.youtube.com/watch?v=jLjfhGGuHZo](https://www.youtube.com/watch?v=jLjfhGGuHZo) |
 | | Flower | [https://www.youtube.com/watch?v=25RC2PX_EZI](https://www.youtube.com/watch?v=25RC2PX_EZI) |
