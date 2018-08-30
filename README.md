@@ -157,6 +157,8 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Minecraft - Volume Beta | [http://c418.bandcamp.com/album/minecraft-volume-beta](http://c418.bandcamp.com/album/minecraft-volume-beta) |
 | | Minecraft | [https://www.youtube.com/watch?v=Dg0IjOzopYU](https://www.youtube.com/watch?v=Dg0IjOzopYU) |
 | | Mirrors Edge | [https://www.youtube.com/watch?v=Y05wiQQbFLU](https://www.youtube.com/watch?v=Y05wiQQbFLU) |
+| | Monument Valley | [https://www.youtube.com/watch?v=4gTDiAZQZxA](https://www.youtube.com/watch?v=4gTDiAZQZxA) |
+| | Monument Valley 2 | [https://www.youtube.com/watch?v=7aDWVDuRCiA](https://www.youtube.com/watch?v=7aDWVDuRCiA) |
 | | Myst | [https://www.youtube.com/watch?v=QCARJeNY03A](https://www.youtube.com/watch?v=QCARJeNY03A) |
 |<a name="games-n">[N](#getshitdonemusic)</a>| Need 4 Speed Most Wanted | [https://www.youtube.com/watch?v=zK5Dw7j1QZM](https://www.youtube.com/watch?v=zK5Dw7j1QZM) |
 | | NieR: Automata | [https://www.youtube.com/watch?v=GrukAMUoNEI](https://www.youtube.com/watch?v=GrukAMUoNEI) |
@@ -165,6 +167,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Ori and the Blind Forest | [https://www.youtube.com/watch?v=MkzeOmkOUHM](https://www.youtube.com/watch?v=MkzeOmkOUHM) |
 | | Octopath Traveler | [https://www.youtube.com/watch?v=WdxbRJx4JFk](https://www.youtube.com/watch?v=WdxbRJx4JFk) |
 |<a name="games-p">[P](#getshitdonemusic)</a>| Path of Exile | [https://www.youtube.com/watch?v=8yABgRlfDWY](https://www.youtube.com/watch?v=8yABgRlfDWY) |
+| | Persona 4 | [https://www.youtube.com/watch?v=tO_Z38jHYU8](https://www.youtube.com/watch?v=tO_Z38jHYU8) |
 | | Portal | [https://www.youtube.com/watch?v=Kgny67NTtw0](https://www.youtube.com/watch?v=Kgny67NTtw0) |
 | | Portal 2 | [https://www.youtube.com/watch?v=y_gknRMZ-OU](https://www.youtube.com/watch?v=y_gknRMZ-OU) |
 |<a name="games-q">[Q](#getshitdonemusic)</a>| Quantum Break | [https://www.youtube.com/watch?v=qNaGc7fsifg](https://www.youtube.com/watch?v=qNaGc7fsifg) |
@@ -180,8 +183,10 @@ A curated collection of music and soundtracks to help you get shit done.
 | | ROCKETSROCKETSROCKETS | [https://www.youtube.com/playlist?list=PLiU5yN....](https://www.youtube.com/playlist?list=PLiU5yN_3jHCxaEkqRjDCcKXXvTPEuNem3) |
 |<a name="games-s">[S](#getshitdonemusic)</a>| Samorost 2 | [https://www.youtube.com/watch?v=JHtZM2370Eg](https://www.youtube.com/watch?v=JHtZM2370Eg) |
 | | Samorost 3 | [https://www.youtube.com/watch?v=QXmyZeickj8](https://www.youtube.com/watch?v=QXmyZeickj8) |
+| | Secret of Mana | [https://www.youtube.com/watch?v=mGK3usiX31s](https://www.youtube.com/watch?v=mGK3usiX31s) |
 | |Several Game OST pieces, 2,5h | [https://www.youtube.com/watch?v=sfXqKHaZwLs](https://www.youtube.com/watch?v=sfXqKHaZwLs) |
 | | Silent Hill | [https://www.youtube.com/watch?v=N7V1YXws_-Y](https://www.youtube.com/watch?v=N7V1YXws_-Y) |
+| | Silent Hill 3| [https://www.youtube.com/watch?v=yfJAooq3mTg](https://www.youtube.com/watch?v=yfJAooq3mTg) |
 | | Sim City 3000 | [https://www.youtube.com/watch?v=qkXOxLpdMds](https://www.youtube.com/watch?v=qkXOxLpdMds) |
 | | Sim City 4 | [https://www.youtube.com/watch?v=PSv37HwwojU](https://www.youtube.com/watch?v=PSv37HwwojU) |
 | | Skyrim | [https://www.youtube.com/watch?v=TWv3DfoiigM](https://www.youtube.com/watch?v=TWv3DfoiigM) |
