@@ -27,6 +27,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Assassin's Creed: Rogue | [https://www.youtube.com/watch?v=gp5Q5kI7oB4](https://www.youtube.com/watch?v=gp5Q5kI7oB4) |
 | | Assassin's Creed: Unity | [https://www.youtube.com/watch?v=_9UswcA4E8I](https://www.youtube.com/watch?v=_9UswcA4E8I) |
 | | Assassin's Creed: Syndicate | [https://www.youtube.com/watch?v=spjAcBMeRpY](https://www.youtube.com/watch?v=spjAcBMeRpY) |
+| | Assassin's Creed: Odyssey | [https://www.youtube.com/watch?v=fwthw9Sy_RU](https://www.youtube.com/watch?v=fwthw9Sy_RU) |
 | | Assassin's Creed: Origins | [https://www.youtube.com/watch?v=-zbUHDJHc4E](https://www.youtube.com/watch?v=-zbUHDJHc4E) |
 | | Astroneer | [https://www.youtube.com/watch?v=2XmrDLfhtEE](https://www.youtube.com/watch?v=2XmrDLfhtEE) |
 |<a name="games-b">[B](#getshitdonemusic)</a>| Banjo Kazooie | [https://www.youtube.com/watch?v=aS40K53JQIg](https://www.youtube.com/watch?v=aS40K53JQIg) |
@@ -127,6 +128,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Horizon: Zero Dawn | [https://www.youtube.com/watch?v=-SNQGyVW_YI](https://www.youtube.com/watch?v=-SNQGyVW_YI) |
 | | Hotline Miami | [https://www.youtube.com/watch?v=oKD-MVfC9Ag](https://www.youtube.com/watch?v=oKD-MVfC9Ag) |
 | | Hotline Miami 2 | [https://www.youtube.com/watch?v=dEFcpyy_vq8](https://www.youtube.com/watch?v=dEFcpyy_vq8) |
+| | Hyper Light Drifter | [https://www.youtube.com/watch?v=bq7a_ktfYck](https://www.youtube.com/watch?v=bq7a_ktfYck) |
 |<a name="games-i">[I](#getshitdonemusic)</a>| Indiana Jones and the Fate of Atlantis | [https://www.youtube.com/watch?v=LF3i-ozWOso](https://www.youtube.com/watch?v=LF3i-ozWOso) |
 | | Indiana Jones and the Emperor's Tomb | [https://www.youtube.com/watch?v=rkiSthoh4zo](https://www.youtube.com/watch?v=rkiSthoh4zo) |
 |<a name="games-j">[J](#getshitdonemusic)</a>| Journey | [https://www.youtube.com/watch?v=M3hFN8UrBPw](https://www.youtube.com/watch?v=M3hFN8UrBPw) |
