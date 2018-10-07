@@ -121,6 +121,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Halo Reach | [https://www.youtube.com/watch?v=aRh1cZbwc4M](https://www.youtube.com/watch?v=aRh1cZbwc4M) |
 | | Halo Wars | [https://www.youtube.com/watch?v=uvSUOweBa4I](https://www.youtube.com/watch?v=uvSUOweBa4I) |
 | | Heavy Rain | [https://www.youtube.com/watch?v=zHI2MgASRXQ](https://www.youtube.com/watch?v=zHI2MgASRXQ) |
+| | Hollow Knight | [https://www.youtube.com/watch?v=0HbnqjGirFg](https://www.youtube.com/watch?v=0HbnqjGirFg) |
 | | Homeworld: Deserts of Kharak | [https://www.youtube.com/watch?v=bcgQLp7Oj3M](https://www.youtube.com/watch?v=bcgQLp7Oj3M) |
 | | Homeworld 2 | [https://www.youtube.com/watch?v=9rFwaf2GaHE](https://www.youtube.com/watch?v=9rFwaf2GaHE) |
 | | Horizon: Zero Dawn | [https://www.youtube.com/watch?v=-SNQGyVW_YI](https://www.youtube.com/watch?v=-SNQGyVW_YI) |
