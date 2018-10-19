@@ -66,7 +66,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Deus Ex: Human Revolution | [https://www.youtube.com/watch?v=tyG6YMLEWus](https://www.youtube.com/watch?v=tyG6YMLEWus) |
 | | Deus Ex: Mankind Divided | [https://www.youtube.com/watch?v=kkcKnWrCZ7k](https://www.youtube.com/watch?v=kkcKnWrCZ7k) |
 | | Dishonored | [https://www.youtube.com/watch?v=QEMtvVzieVc](https://www.youtube.com/watch?v=QEMtvVzieVc) |
-| | Dishonored 2 | [https://www.youtube.com/watch?v=lFdJn8qd6pg](https://www.youtube.com/watch?v=lFdJn8qd6pg) |
+| | Dishonored 2 | [https://www.youtube.com/watch?v=rKeDI5Zzz1M](https://www.youtube.com/watch?v=rKeDI5Zzz1M) |
 | | Donkey Kong Country 2 | [https://www.youtube.com/watch?v=cbreFmRDN3E](https://www.youtube.com/watch?v=cbreFmRDN3E) |
 | | Doom | [https://www.youtube.com/watch?v=Jm932Sqwf5E](https://www.youtube.com/watch?v=Jm932Sqwf5E) |
 | | Dragon Age Inquisition | [https://www.youtube.com/watch?v=I9FvEhX3E0w](https://www.youtube.com/watch?v=I9FvEhX3E0w) |
