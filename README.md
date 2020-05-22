@@ -19,11 +19,11 @@ A curated collection of music and soundtracks to help you get shit done.
 | | ARK Survival | [https://www.youtube.com/playlist?list=PLqD_Pn7p3KeYCWbmxJ46EA8zb7aoZexsY](https://www.youtube.com/playlist?list=PLqD_Pn7p3KeYCWbmxJ46EA8zb7aoZexsY) |
 | | Ascendancy | [https://www.youtube.com/watch?v=d-11W4NP1hM](https://www.youtube.com/watch?v=d-11W4NP1hM) |
 | | Assassin's Creed 1 | [https://www.youtube.com/watch?v=OKnTUsQ6sb0](https://www.youtube.com/watch?v=OKnTUsQ6sb0) |
-| | Assassin's Creed 2 | [https://www.youtube.com/watch?v=VSFlCOhU6-o](https://www.youtube.com/watch?v=VSFlCOhU6-o) |
-| | Assassin's Creed 3 | [https://www.youtube.com/watch?v=3QByfthwPYU](https://www.youtube.com/watch?v=3QByfthwPYU) |
+| | Assassin's Creed 2 | [https://www.youtube.com/watch?v=iriiZOeInDg](https://www.youtube.com/watch?v=iriiZOeInDg) |
+| | Assassin's Creed 3 | [https://www.youtube.com/watch?v=CYaskkqT5oM](https://www.youtube.com/watch?v=CYaskkqT5oM) |
 | | Assassin's Creed 4: Black Flag | [https://www.youtube.com/watch?v=JYVMnLUZu9Y](https://www.youtube.com/watch?v=JYVMnLUZu9Y) |
 | | Assassin's Creed: Brotherhood | [https://www.youtube.com/watch?v=QOxU5bc1zRA](https://www.youtube.com/watch?v=QOxU5bc1zRA) |
-| | Assassin's Creed: Revelations | [https://www.youtube.com/watch?v=FXs-vSF5Scg](https://www.youtube.com/watch?v=FXs-vSF5Scg) |
+| | Assassin's Creed: Revelations | [https://www.youtube.com/watch?v=yVgX-bfbOaA](https://www.youtube.com/watch?v=yVgX-bfbOaA) |
 | | Assassin's Creed: Rogue | [https://www.youtube.com/watch?v=gp5Q5kI7oB4](https://www.youtube.com/watch?v=gp5Q5kI7oB4) |
 | | Assassin's Creed: Unity | [https://www.youtube.com/watch?v=_9UswcA4E8I](https://www.youtube.com/watch?v=_9UswcA4E8I) |
 | | Assassin's Creed: Syndicate | [https://www.youtube.com/watch?v=spjAcBMeRpY](https://www.youtube.com/watch?v=spjAcBMeRpY) |
@@ -75,6 +75,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Dustforce | [https://www.youtube.com/watch?v=8_B8ekeZTCM](https://www.youtube.com/watch?v=8_B8ekeZTCM) |
 |<a name="games-e">[E](#getshitdonemusic)</a>| Elder Scrolls III: Morrowind | [https://www.youtube.com/watch?v=xULTMMgwLuo](https://www.youtube.com/watch?v=xULTMMgwLuo) |
 | | Elder Scrolls IV: Oblivion | [https://www.youtube.com/watch?v=SpqSdORmCX4](https://www.youtube.com/watch?v=SpqSdORmCX4) |
+| | Elder Scrolls V: Skyrim | [https://www.youtube.com/watch?v=aQeIYVM3YBM](https://www.youtube.com/watch?v=aQeIYVM3YBM) |
 | | Elder Scrolls Online | [https://www.youtube.com/watch?v=2_5ouz9beYo](https://www.youtube.com/watch?v=2_5ouz9beYo) |
 | | Endless Space 2 | [https://www.youtube.com/watch?v=IP9n1CANQO0](https://www.youtube.com/watch?v=IP9n1CANQO0) |
 | | Eve Online | [https://soundcloud.com/ccpgames/sets/eve-online-in-game-tracks](https://soundcloud.com/ccpgames/sets/eve-online-in-game-tracks) |
@@ -203,6 +204,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Sword & Sworcery | [https://www.youtube.com/watch?v=xCcWWcL_Sg4](https://www.youtube.com/watch?v=xCcWWcL_Sg4) |
 |<a name="games-t">[T](#getshitdonemusic)</a>| The Binding of Isaac | [https://www.youtube.com/watch?v=AX6h8_Y_ot4](https://www.youtube.com/watch?v=AX6h8_Y_ot4) |
 | | The Dig | [https://www.youtube.com/watch?v=d8kBCO8x2JE](https://www.youtube.com/watch?v=d8kBCO8x2JE) |
+| | The Last of Us | [https://www.youtube.com/watch?v=DvNF51-TSAQ](https://www.youtube.com/watch?v=DvNF51-TSAQ) |
 | | The Legend of Zelda: The Wind Waker | [https://youtu.be/KnJiC8FeI2I](https://youtu.be/KnJiC8FeI2I) |
 | | The Legend of Zelda: Twilight Princess | [https://www.youtube.com/watch?v=ox2D-EJoB0w](https://www.youtube.com/watch?v=ox2D-EJoB0w) |
 | | The Legend of Zelda: Skyward Sword | [https://www.youtube.com/watch?v=JLLUQ03RWro](https://www.youtube.com/watch?v=JLLUQ03RWro) |
