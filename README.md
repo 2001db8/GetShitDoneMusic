@@ -170,6 +170,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | No Man's Sky | [https://www.youtube.com/watch?v=RRI-o9JDfCI](https://www.youtube.com/watch?v=RRI-o9JDfCI) |
 |<a name="games-o">[O](#getshitdonemusic)</a>| Oni | [https://www.youtube.com/watch?v=GbGvEDuErUo](https://www.youtube.com/watch?v=GbGvEDuErUo) |
 | | Ori and the Blind Forest | [https://www.youtube.com/watch?v=MkzeOmkOUHM](https://www.youtube.com/watch?v=MkzeOmkOUHM) |
+| | Ori and the Will od the Wisps | [https://www.youtube.com/watch?v=VVPJDANmZ0o](https://www.youtube.com/watch?v=VVPJDANmZ0o) |
 | | Octopath Traveler | [https://www.youtube.com/watch?v=WdxbRJx4JFk](https://www.youtube.com/watch?v=WdxbRJx4JFk) |
 |<a name="games-p">[P](#getshitdonemusic)</a>| Path of Exile | [https://www.youtube.com/watch?v=8yABgRlfDWY](https://www.youtube.com/watch?v=8yABgRlfDWY) |
 | | Persona 4 | [https://www.youtube.com/watch?v=tO_Z38jHYU8](https://www.youtube.com/watch?v=tO_Z38jHYU8) |
