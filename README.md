@@ -112,6 +112,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Gothic 3 | [https://www.youtube.com/watch?v=QgrgPqGoKk4](https://www.youtube.com/watch?v=QgrgPqGoKk4) |
 | | Grim Fandango | [https://www.youtube.com/watch?v=2u9D3CfoZpE](https://www.youtube.com/watch?v=2u9D3CfoZpE) |
 | | Grim Fandango (Remastered) | [https://www.youtube.com/watch?v=km6bLtiSSq4](https://www.youtube.com/watch?v=km6bLtiSSq4) |
+| | Gris | [https://www.youtube.com/watch?v=XxM1SX35-GU](https://www.youtube.com/watch?v=XxM1SX35-GU) |
 | | Guild Wars 2 | [https://www.youtube.com/watch?v=JCHVIUEjzO0](https://www.youtube.com/watch?v=JCHVIUEjzO0) |
 | | Guild Wars (7 hours) | [https://www.youtube.com/watch?v=0cVB7GT3RWw](https://www.youtube.com/watch?v=0cVB7GT3RWw) |
 |<a name="games-h">[H](#getshitdonemusic)</a>| Half Life 1 | [https://www.youtube.com/watch?v=AaXsb5kS31s](https://www.youtube.com/watch?v=AaXsb5kS31s) |
