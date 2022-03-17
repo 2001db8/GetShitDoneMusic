@@ -29,6 +29,7 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Assassin's Creed: Syndicate | [https://www.youtube.com/watch?v=spjAcBMeRpY](https://www.youtube.com/watch?v=spjAcBMeRpY) |
 | | Assassin's Creed: Odyssey | [https://www.youtube.com/watch?v=fwthw9Sy_RU](https://www.youtube.com/watch?v=fwthw9Sy_RU) |
 | | Assassin's Creed: Origins | [https://www.youtube.com/watch?v=-zbUHDJHc4E](https://www.youtube.com/watch?v=-zbUHDJHc4E) |
+| | Assassin’s Creed Valhalla: Dawn of Ragnarök | [https://www.youtube.com/watch?v=3iT7_3xmNGk](https://www.youtube.com/watch?v=3iT7_3xmNGk) |
 | | Astroneer | [https://www.youtube.com/watch?v=2XmrDLfhtEE](https://www.youtube.com/watch?v=2XmrDLfhtEE) |
 |<a name="games-b">[B](#getshitdonemusic)</a>| Banjo Kazooie | [https://www.youtube.com/watch?v=aS40K53JQIg](https://www.youtube.com/watch?v=aS40K53JQIg) |
 | | Bastion | [https://www.youtube.com/watch?v=oLA0vB9LCTM](https://www.youtube.com/watch?v=oLA0vB9LCTM) |
@@ -215,7 +216,9 @@ A curated collection of music and soundtracks to help you get shit done.
 | | The Witness | [https://www.youtube.com/watch?v=ivasQmkEC8s](https://www.youtube.com/watch?v=ivasQmkEC8s) |
 | | Tomb Raider | [https://www.youtube.com/watch?v=-wR1xUHm4rs](https://www.youtube.com/watch?v=-wR1xUHm4rs) |
 | | Tomb Raider, Rise of the | [https://www.youtube.com/watch?v=YB6la1r7qRI](https://www.youtube.com/watch?v=YB6la1r7qRI) |
+| | Tom Clancy's Rainbow Six: Extraction | [https://www.youtube.com/watch?v=VZ-yJEmwhD0](https://www.youtube.com/watch?v=VZ-yJEmwhD0) |
 | | Tom Clancy's The Division | [https://www.youtube.com/watch?v=3xvMSC06GQQ](https://www.youtube.com/watch?v=3xvMSC06GQQ) |
+| | Tom Clancy's The Division 2 | [https://www.youtube.com/watch?v=2Dm5q9ke4Wc](https://www.youtube.com/watch?v=2Dm5q9ke4Wc) |
 | | Tony Hawk Pro Skater Spotify Playlist | [https://open.spotify.com/user/.../3IdxCfpLeuIEL3Fc2E39Bz](https://open.spotify.com/user/.../3IdxCfpLeuIEL3Fc2E39Bz) |
 | | Transistor | [https://www.youtube.com/watch?v=-zA1jRmAYfU](https://www.youtube.com/watch?v=-zA1jRmAYfU) |
 |<a name="games-u">[U](#getshitdonemusic)</a>| Uncharted | [https://www.youtube.com/watch?v=4ROYScbyC7Y](https://www.youtube.com/watch?v=4ROYScbyC7Y) |
