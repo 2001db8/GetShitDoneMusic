@@ -11,7 +11,7 @@ A curated collection of music and soundtracks to help you get shit done.
 
 |A-Z| Game | Link to OST |
 | :---: | --- | --- |
-|<a name="games-a">[A](#getshitdonemusic)</a>| Abzû | [https://www.youtube.com/watch?v=TCuhQLgDgIg](https://www.youtube.com/watch?v=TCuhQLgDgIg) |
+|<a name="games-a">[A](#getshitdonemusic)</a>| Abzû | [https://www.youtube.com/watch?v=AbAKspN_xHs](https://www.youtube.com/watch?v=AbAKspN_xHs) |
 | | Aion | [https://www.youtube.com/watch?v=70zSXGVoLKY](https://www.youtube.com/watch?v=70zSXGVoLKY) |
 | | Albion Online | [https://www.youtube.com/watch?v=157KMnypfJ0](https://www.youtube.com/watch?v=157KMnypfJ0) |
 | | Alien: Isolation | [https://www.youtube.com/watch?v=URG11U69KS8](https://www.youtube.com/watch?v=URG11U69KS8) |
