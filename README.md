@@ -30,8 +30,8 @@ A curated collection of music and soundtracks to help you get shit done.
 | | Assassin's Creed: Odyssey | [https://www.youtube.com/watch?v=fwthw9Sy_RU](https://www.youtube.com/watch?v=fwthw9Sy_RU) |
 | | Assassin's Creed: Origins | [https://www.youtube.com/watch?v=-zbUHDJHc4E](https://www.youtube.com/watch?v=-zbUHDJHc4E) |
 | | Assassin’s Creed Valhalla: Dawn of Ragnarök | [https://www.youtube.com/watch?v=3iT7_3xmNGk](https://www.youtube.com/watch?v=3iT7_3xmNGk) |
-| | Astroneer | [https://www.youtube.com/watch?v=2XmrDLfhtEE](https://www.youtube.com/watch?v=2XmrDLfhtEE) |
-|<a name="games-b">[B](#getshitdonemusic)</a>| Banjo Kazooie | [https://www.youtube.com/watch?v=aS40K53JQIg](https://www.youtube.com/watch?v=aS40K53JQIg) |
+| | Astroneer | [https://www.youtube.com/watch?v=iTdM9v2GjNI](https://www.youtube.com/watch?v=iTdM9v2GjNI) |
+|<a name="games-b">[B](#getshitdonemusic)</a>| Banjo Kazooie | [https://www.youtube.com/watch?v=ralscEOGJi8](https://www.youtube.com/watch?v=ralscEOGJi8) |
 | | Bastion | [https://www.youtube.com/watch?v=oLA0vB9LCTM](https://www.youtube.com/watch?v=oLA0vB9LCTM) |
 | | Batman: Arkham Asylum | [https://www.youtube.com/watch?v=uB9e_ruSRqk](https://www.youtube.com/watch?v=uB9e_ruSRqk) |
 | | Batman: Arkham City | [https://www.youtube.com/watch?v=EwT-42p5vzs](https://www.youtube.com/watch?v=EwT-42p5vzs) |
